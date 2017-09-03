@@ -1,0 +1,28 @@
+# SVM: Only Word Vectors
+#!/usr/bin/python
+
+import sys
+
+import re
+
+
+f = open(sys.argv[1],'r')
+f_o1 = open(sys.argv[1]+'.q','w')
+
+qid = 0
+dict = {}
+word_count = {}
+rev_dict = {}
+index = 1
+
+f_o1.write('# Vocabulary size:'+str(index)+'\n')
+for line in f:	
+	if line.strip().endswith("sarcasm"):
+		output = '+1 '+line
+	else:
+		output = '-1 '+line
+
+	f_o1.write(output)
+
+f_o1.close()
+f.close()

@@ -1,0 +1,7 @@
+Development code contains two sets of files:
+1) A python notebook that contains the code to create the word embedding-based features. Several versions exist: distance-weighted, non-weighted, etc. they have been appropriately commented.
+2) unigramspluswv.txt combines the word embedding-based features with the other features, as given in the reimplementation files - also present in the directory
+
+Testing code contains implementation of the paper done for AAAI demo.
+
+All of the above do not include the pre-trained word embeddings which will have to be downloaded from the appropriate sources as given in the EMNLP paper based on this work.

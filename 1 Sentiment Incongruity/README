@@ -1,0 +1,2 @@
+Development code is the eclipse project
+Testing code is the code that was used in Sarcasm Suite. It references some data/lexicon files, which may be found in the development code.

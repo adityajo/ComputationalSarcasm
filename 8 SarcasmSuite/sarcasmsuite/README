@@ -1,0 +1,3 @@
+This is the code for Sarcasm Suite that was presented as a demonstration in AAAI 2017. The code was written in php.
+
+It uses some hard-coded php paths which will have to be re-defined before running the code.

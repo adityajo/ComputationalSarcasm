@@ -1,0 +1,7 @@
+./train_t24.feat
+             precision    recall  f1-score   support
+
+          1       0.99      1.00      0.99       269
+          2       1.00      1.00      1.00      3753
+
+avg / total       1.00      1.00      1.00      4022

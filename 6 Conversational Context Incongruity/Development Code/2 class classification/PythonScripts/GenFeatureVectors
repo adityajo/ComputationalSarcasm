@@ -1,0 +1,71 @@
+python try2.txt ../../24Feb2016/run1/train ../run1/train_t2.q ../../24Feb2016/run1/test ../run1/test_t2.q
+python try2.txt ../../24Feb2016/run2/train ../run2/train_t2.q ../../24Feb2016/run2/test ../run2/test_t2.q
+python try2.txt ../../24Feb2016/run3/train ../run3/train_t2.q ../../24Feb2016/run3/test ../run3/test_t2.q
+python try2.txt ../../24Feb2016/run4/train ../run4/train_t2.q ../../24Feb2016/run4/test ../run4/test_t2.q
+python try2.txt ../../24Feb2016/run5/train ../run5/train_t2.q ../../24Feb2016/run5/test ../run5/test_t2.q
+
+python try1.txt ../../24Feb2016/run1/train ../run1/train_t1.q ../../24Feb2016/run1/test ../run1/test_t1.q
+python try1.txt ../../24Feb2016/run2/train ../run2/train_t1.q ../../24Feb2016/run2/test ../run2/test_t1.q
+python try1.txt ../../24Feb2016/run3/train ../run3/train_t1.q ../../24Feb2016/run3/test ../run3/test_t1.q
+python try1.txt ../../24Feb2016/run4/train ../run4/train_t1.q ../../24Feb2016/run4/test ../run4/test_t1.q
+python try1.txt ../../24Feb2016/run5/train ../run5/train_t1.q ../../24Feb2016/run5/test ../run5/test_t1.q
+
+python try3.txt ../../24Feb2016/run1/train ../run1/train_t3.q ../../24Feb2016/run1/test ../run1/test_t3.q
+python try3.txt ../../24Feb2016/run2/train ../run2/train_t3.q ../../24Feb2016/run2/test ../run2/test_t3.q
+python try3.txt ../../24Feb2016/run3/train ../run3/train_t3.q ../../24Feb2016/run3/test ../run3/test_t3.q
+python try3.txt ../../24Feb2016/run4/train ../run4/train_t3.q ../../24Feb2016/run4/test ../run4/test_t3.q
+python try3.txt ../../24Feb2016/run5/train ../run5/train_t3.q ../../24Feb2016/run5/test ../run5/test_t3.q
+
+python try4.txt ../../24Feb2016/run1/train ../run1/train_t4.q ../../24Feb2016/run1/test ../run1/test_t4.q
+python try4.txt ../../24Feb2016/run2/train ../run2/train_t4.q ../../24Feb2016/run2/test ../run2/test_t4.q
+python try4.txt ../../24Feb2016/run3/train ../run3/train_t4.q ../../24Feb2016/run3/test ../run3/test_t4.q
+python try4.txt ../../24Feb2016/run4/train ../run4/train_t4.q ../../24Feb2016/run4/test ../run4/test_t4.q
+python try4.txt ../../24Feb2016/run5/train ../run5/train_t4.q ../../24Feb2016/run5/test ../run5/test_t4.q
+
+python try10.txt ../../24Feb2016/run1/train ../run1/train_t10.q ../../24Feb2016/run1/test ../run1/test_t10.q
+python try10.txt ../../24Feb2016/run2/train ../run2/train_t10.q ../../24Feb2016/run2/test ../run2/test_t10.q
+python try10.txt ../../24Feb2016/run3/train ../run3/train_t10.q ../../24Feb2016/run3/test ../run3/test_t10.q
+python try10.txt ../../24Feb2016/run4/train ../run4/train_t10.q ../../24Feb2016/run4/test ../run4/test_t10.q
+python try10.txt ../../24Feb2016/run5/train ../run5/train_t10.q ../../24Feb2016/run5/test ../run5/test_t10.q
+
+python try11.txt ../../24Feb2016/run1/train ../run1/train_t11.q ../../24Feb2016/run1/test ../run1/test_t11.q
+python try11.txt ../../24Feb2016/run2/train ../run2/train_t11.q ../../24Feb2016/run2/test ../run2/test_t11.q
+python try11.txt ../../24Feb2016/run3/train ../run3/train_t11.q ../../24Feb2016/run3/test ../run3/test_t11.q
+python try11.txt ../../24Feb2016/run4/train ../run4/train_t11.q ../../24Feb2016/run4/test ../run4/test_t11.q
+python try11.txt ../../24Feb2016/run5/train ../run5/train_t11.q ../../24Feb2016/run5/test ../run5/test_t11.q
+
+python try21.txt ../../24Feb2016/run1/train ../run1/train_t21.q ../../24Feb2016/run1/test ../run1/test_t21.q
+python try21.txt ../../24Feb2016/run2/train ../run2/train_t21.q ../../24Feb2016/run2/test ../run2/test_t21.q
+python try21.txt ../../24Feb2016/run3/train ../run3/train_t21.q ../../24Feb2016/run3/test ../run3/test_t21.q
+python try21.txt ../../24Feb2016/run4/train ../run4/train_t21.q ../../24Feb2016/run4/test ../run4/test_t21.q
+python try21.txt ../../24Feb2016/run5/train ../run5/train_t21.q ../../24Feb2016/run5/test ../run5/test_t21.q
+
+python try22.txt ../../24Feb2016/run1/train ../run1/train_t22.q ../../24Feb2016/run1/test ../run1/test_t22.q
+python try22.txt ../../24Feb2016/run2/train ../run2/train_t22.q ../../24Feb2016/run2/test ../run2/test_t22.q
+python try22.txt ../../24Feb2016/run3/train ../run3/train_t22.q ../../24Feb2016/run3/test ../run3/test_t22.q
+python try22.txt ../../24Feb2016/run4/train ../run4/train_t22.q ../../24Feb2016/run4/test ../run4/test_t22.q
+python try22.txt ../../24Feb2016/run5/train ../run5/train_t22.q ../../24Feb2016/run5/test ../run5/test_t22.q
+
+python try19.txt ../../24Feb2016/run1/train ../run1/train_t19.q ../../24Feb2016/run1/test ../run1/test_t19.q
+python try19.txt ../../24Feb2016/run2/train ../run2/train_t19.q ../../24Feb2016/run2/test ../run2/test_t19.q
+python try19.txt ../../24Feb2016/run3/train ../run3/train_t19.q ../../24Feb2016/run3/test ../run3/test_t19.q
+python try19.txt ../../24Feb2016/run4/train ../run4/train_t19.q ../../24Feb2016/run4/test ../run4/test_t19.q
+python try19.txt ../../24Feb2016/run5/train ../run5/train_t19.q ../../24Feb2016/run5/test ../run5/test_t19.q
+
+python try12.txt ../../24Feb2016/run1/train ../run1/train_t12.q ../../24Feb2016/run1/test ../run1/test_t12.q
+python try12.txt ../../24Feb2016/run2/train ../run2/train_t12.q ../../24Feb2016/run2/test ../run2/test_t12.q
+python try12.txt ../../24Feb2016/run3/train ../run3/train_t12.q ../../24Feb2016/run3/test ../run3/test_t12.q
+python try12.txt ../../24Feb2016/run4/train ../run4/train_t12.q ../../24Feb2016/run4/test ../run4/test_t12.q
+python try12.txt ../../24Feb2016/run5/train ../run5/train_t12.q ../../24Feb2016/run5/test ../run5/test_t12.q
+
+python try20.txt ../../24Feb2016/run1/train ../run1/train_t20.q ../../24Feb2016/run1/test ../run1/test_t20.q
+python try20.txt ../../24Feb2016/run2/train ../run2/train_t20.q ../../24Feb2016/run2/test ../run2/test_t20.q
+python try20.txt ../../24Feb2016/run3/train ../run3/train_t20.q ../../24Feb2016/run3/test ../run3/test_t20.q
+python try20.txt ../../24Feb2016/run4/train ../run4/train_t20.q ../../24Feb2016/run4/test ../run4/test_t20.q
+python try20.txt ../../24Feb2016/run5/train ../run5/train_t20.q ../../24Feb2016/run5/test ../run5/test_t20.q
+
+python try15.txt ../../24Feb2016/run1/train ../run1/train_t15.q ../../24Feb2016/run1/test ../run1/test_t15.q
+python try15.txt ../../24Feb2016/run2/train ../run2/train_t15.q ../../24Feb2016/run2/test ../run2/test_t15.q
+python try15.txt ../../24Feb2016/run3/train ../run3/train_t15.q ../../24Feb2016/run3/test ../run3/test_t15.q
+python try15.txt ../../24Feb2016/run4/train ../run4/train_t15.q ../../24Feb2016/run4/test ../run4/test_t15.q
+python try15.txt ../../24Feb2016/run5/train ../run5/train_t15.q ../../24Feb2016/run5/test ../run5/test_t15.q

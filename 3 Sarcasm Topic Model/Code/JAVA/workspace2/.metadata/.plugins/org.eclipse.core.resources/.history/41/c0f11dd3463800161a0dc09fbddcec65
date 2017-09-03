@@ -1,0 +1,237 @@
+package hello ;
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+
+public class CallMyModel {
+	
+	private static String[] map_id_word ; //Vocubulary of words
+	private static int W=0 ; // length of vocabulary 
+	private static double[] is_w ;// probability that the word is an issue word is=0
+	private static HashMap<String, Integer> hm ;
+	private static int[][] positive,negative,sarcastic,w_di ;
+	private static int[] label ;
+	private static int Z =30,L=3,S=2,burnIn=20,samples=5,step=2 ;
+	private static int result_number=2206 ;
+	private static int count = 5 ;
+	private static long count_w[] ;
+	private static double alpha_num = 1 ,
+		alpha_den = Z ,
+		beta_1_num = 1 ,
+		beta_1_den = S ,
+		beta_2_num = 100000,
+		beta_2_den = 100000 ,
+		gamma_num = 1 ,
+		gamma_den = W ,
+		delta_1_num =1 ,
+		delta_1_den = W ,
+		delta_2_num = 100000, 
+		delta_2_den = 100000; 
+	
+	private static void test_fun(){
+		//System.out.println(W);
+		//for(int i=0;i<10;i++){
+			//System.out.println(map_id_word[i]);
+			//System.out.println(is_w[i]);
+		//}
+		//System.out.println(map_id_word.length);
+		//System.out.println(is_w.length);
+		System.out.println(w_di.length);
+		//System.out.println(label.length);
+		
+		
+	}
+	
+	public static void main(String[] args){
+		try{
+			
+			Create_vocab_switch() ; // Will fill values of vocab_size, map_id_word, is_w
+		
+			//Loading tweets and mapping each word to ID
+
+			hm= new HashMap<String, Integer>() ;
+			for (int i=0;i<map_id_word.length;i++){
+				hm.put(map_id_word[i],i) ;
+			}
+			//System.out.println("hello");
+			String fpath = "/home/prayas/topic-model-data/clean_data/positive.txt" ;
+			create_count_words(fpath) ;
+			
+			String fpath2 = "/home/prayas/topic-model-data/clean_data/negative.txt" ; 
+			create_count_words(fpath2) ;
+			
+			String fpath3 = "/home/prayas/topic-model-data/clean_data/sarcastic.txt" ; 
+			create_count_words(fpath3) ;
+			
+			
+			fpath = "/home/prayas/topic-model-data/clean_data/positive.txt" ;
+ 			positive = loadTweets(fpath) ;
+			//System.out.println("hello");
+			fpath = "/home/prayas/topic-model-data/clean_data/negative.txt" ;
+			negative = loadTweets(fpath) ;
+			fpath = "/home/prayas/topic-model-data/clean_data/sarcastic.txt" ;
+			sarcastic = loadTweets(fpath) ;
+			
+			Integer[] index = new Integer[positive.length + negative.length + sarcastic.length] ;
+			for(int i=0;i<positive.length + negative.length + sarcastic.length;i++)
+				index[i]=i ;
+			Collections.shuffle(Arrays.asList(index)) ;
+			//System.out.println("hello12");
+			
+			//System.out.println(positive.length);
+		//	System.out.println(negative.length);
+		//	System.out.println(sarcastic.length);
+			
+			w_di = new int[positive.length + negative.length + sarcastic.length][] ;
+			
+			label = new int[positive.length + negative.length + sarcastic.length] ;
+			
+			for(int i=0;i<index.length;i++){
+				if(index[i]<positive.length){
+					label[i] = 0 ;
+					w_di[i] = new int[positive[index[i]].length] ;
+					for(int j=0;j<w_di[i].length;j++){
+						w_di[i][j]= positive[index[i]][j] ;
+					}
+
+				}else if(index[i]<(positive.length+negative.length)){
+					label[i] =1 ;
+					w_di[i] = new int[negative[index[i]-positive.length].length] ;
+					for(int j=0;j<w_di[i].length;j++){
+						w_di[i][j]= negative[index[i]-positive.length][j] ;
+					}
+
+				}else {
+					label[i]=2 ;
+					w_di[i] = new int[sarcastic[index[i]-positive.length-negative.length].length] ;
+					for(int j=0;j<w_di[i].length;j++){
+						w_di[i][j]= sarcastic[index[i] - positive.length - negative.length][j] ;
+					}
+
+				}
+			}
+
+			mymodel model = new mymodel() ;
+			
+			//System.out.println("Before Calling\n");
+			
+			test_fun() ;
+			for(int i=0;i<w_di.length;i++){
+				if(w_di[i].length==0){
+			//		System.out.println("Document:"+String.valueOf(i));
+				}
+			}
+			model.estimate(label,w_di,is_w,map_id_word,W,w_di.length,Z,L,S,burnIn,samples,step,result_number,count,alpha_num
+					,alpha_den,beta_1_num, beta_1_den , beta_2_num , beta_2_den , gamma_num, gamma_den,
+					delta_1_num, delta_1_den , delta_2_num ,delta_2_den) ;
+			result_number++ ;
+			System.out.println("All done\n");
+			
+			
+		}
+		catch(IOException e){
+			System.out.println(e.getMessage());
+		}
+		
+	}
+	private static void create_count_words(String fpath1 ){
+		try{
+		
+			ReadFile f1 ;
+			f1= new ReadFile(fpath1) ;
+			String[] fdata = f1.OpenFile() ;
+			
+			for(int i=0;i<fdata.length;i++){
+				String[] words = fdata[i].split(" ") ;
+				for(int j=0;j<words.length;j++){
+					String w = words[j] ;
+					if(hm.containsKey(w)){
+						count_w[hm.get(w)]++   ;
+					}
+				
+				}
+			}
+			
+			
+			
+			
+			
+		}catch( IOException e){
+			System.out.println("Load Tweets");
+			System.out.println(e.getMessage());
+			
+			
+		}
+		
+	}
+	private static int[][] loadTweets(String fpath) {
+		try{
+			ReadFile file = new ReadFile(fpath) ;
+			String[] fdata = file.OpenFile() ;
+			int[][] tweets = new int[fdata.length][] ;
+			int[][] tweets_mapped = new int[fdata.length][] ;
+			int ci=0 ;
+			int count =0 ;
+			
+			for(int i=0;i<fdata.length;i++){
+				String[] words = fdata[i].split(" ") ;
+				tweets[i]= new int[words.length] ;
+				count=0;
+				
+				for(int j=0;j<words.length;j++){
+					String w = words[j] ;
+					if(hm.containsKey(w)){
+						int gw = hm.get(w) ; // tweet is the mapping from word to int
+						if(count_w[gw]>=3)
+							tweets[i][count++] = gw ;
+						
+					}
+				}
+				if(count>3){  // making sure the no. of words (mapped) are greater than 3,reducing dimension of tweets
+					tweets_mapped[ci]= new int[count] ;
+					//System.out.println(count);
+					for(int j=0;j<count;j++){
+						//System.out.println(String.valueOf(i)+" "+String.valueOf(j)+" "+String.valueOf(ci));
+						tweets_mapped[ci][j]= tweets[i][j] ;
+					}
+					ci++ ;
+				}
+				}
+			int[][] tweets_mapped2 = new int[ci][] ; // reducing no of tweets dimension
+			for(int i=0;i<ci;i++){
+				tweets_mapped2[i] = new int[tweets_mapped[i].length] ;
+				for(int j=0;j<tweets_mapped[i].length;j++){
+					tweets_mapped2[i][j] =tweets_mapped[i][j] ;
+				}
+			}
+				
+				
+			
+			return tweets_mapped2 ;
+		}catch( IOException e){
+			System.out.println("Load Tweets");
+			System.out.println(e.getMessage());
+			
+		}
+		return null ;
+
+	}
+
+	private static  void Create_vocab_switch() throws IOException{
+		String fpath = "/home/prayas/topic-model-data/support/switch-probabilities.txt" ; //path to switch probab
+		ReadFile file =new ReadFile(fpath) ;
+		String[] fdata = file.OpenFile()  ;
+		W=fdata.length-1 ;
+		map_id_word = new String[W] ;
+		is_w = new double[W] ;
+		for(int i=1;i<W+1;i++){
+			String[] splitted= fdata[i].split("\t") ;
+			map_id_word[i-1]=splitted[0] ;
+			is_w[i-1] = Double.parseDouble(splitted[1]) ;
+		}
+		count_w=new long[W]  ;
+		
+	}
+	
+}

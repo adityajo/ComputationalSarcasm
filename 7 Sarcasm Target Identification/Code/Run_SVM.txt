@@ -1,0 +1,24 @@
+For statistical (use SVM Perf tool)
+
+../svm_perf_learn -c 1000 -e 0.5 ../run1/train_t1.txt
+
+../svm_perf_classify ../run1/test_t1.txt svm_struct_model ../run1/predicted_tags_t1.txt
+
+awk '{print $1}' ../run1/test_t1.txt > ../run1/actual_tags_t1.txt
+paste ../run1/predicted_tags_t1.txt ../run1/test_t1.txt > ../run1/use_t1.txt
+
+
+For sequence labeling (use SVM HMM tool)
+
+../svm_hmm_learn -c 1000 -e 0.5 ../run1/train_t1.txt
+
+../svm_hmm_classify ../run1/test_t1.txt svm_struct_model ../run1/predicted_tags_t1.txt
+
+awk '{print $1}' ../run1/test_t1.txt > ../run1/actual_tags_t1.txt
+paste ../run1/predicted_tags_t1.txt ../run1/test_t1.txt > ../run1/use_t1.txt
+
+
+NOTE : 1. replace '..' with appropriate path.
+       2. commands to be run on linux command line
+       3. download tools - https://www.cs.cornell.edu/people/tj/svm_light/svm_perf.html and https://www.cs.cornell.edu/people/tj/svm_light/svm_hmm.html
+			   and extract the tar.gz files.	

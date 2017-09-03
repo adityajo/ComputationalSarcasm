@@ -1,0 +1,2 @@
+1) context2vec...py contains modifications made to context2vec so that it repeats over all word positions.
+2) The python notebook in the directory computes the all-words and incongruous words approach. Appropriate comments have been added.

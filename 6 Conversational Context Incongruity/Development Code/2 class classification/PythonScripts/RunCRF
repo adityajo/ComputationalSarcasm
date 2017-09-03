@@ -1,0 +1,34 @@
+#hmm_to_crf.py chalao. '.qcrf' se end hone wali files banengi
+# Local host mein Eclipse mein 'Utilities.java' chalao. That runs it for all features nad runs
+# Then run following commands
+
+awk '{print $1}' run4/test_t24.qcrf | sed '/^$/d' > run4/actual_tags
+cat run4/predicted_tags | sed 's/ /\n/g' > run4/predicted_tags.aditya
+paste run4/actual_tags run4/predicted_tags.aditya > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run4/results.crf
+
+awk '{print $1}' run3/test_t24.qcrf | sed '/^$/d' > run3/actual_tags
+cat run3/predicted_tags | sed 's/ /\n/g' > run3/predicted_tags.aditya
+paste run3/actual_tags run3/predicted_tags.aditya > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run3/results.crf
+
+awk '{print $1}' run2/test_t24.qcrf | sed '/^$/d' > run2/actual_tags
+cat run2/predicted_tags | sed 's/ /\n/g' > run2/predicted_tags.aditya
+paste run2/actual_tags run2/predicted_tags.aditya > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run2/results.crf
+
+awk '{print $1}' run1/test_t24.qcrf | sed '/^$/d' > run1/actual_tags
+cat run1/predicted_tags | sed 's/ /\n/g' > run1/predicted_tags.aditya
+paste run1/actual_tags run1/predicted_tags.aditya > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run1/results.crf
+
+
+awk '{print $1}' run1/test_t24.qcrf | sed '/^$/d' > run5/actual_tags
+cat run5/predicted_tags | sed 's/ /\n/g' > run5/predicted_tags.aditya
+paste run5/actual_tags run1/predicted_tags.aditya > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run5/results.crf
+
+
+
+
+ cat run1/t1/results.crf run2/t1/results.crf run3/t1/results.crf run4/t1/results.crf run5/t1/results.crf > t1_results.summary

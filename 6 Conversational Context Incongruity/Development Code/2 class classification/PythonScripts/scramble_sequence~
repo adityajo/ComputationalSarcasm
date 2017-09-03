@@ -1,0 +1,31 @@
+import random
+import sys
+
+f = open(sys.argv[1],'r')
+o_f = open(sys.argv[1]+'.newscram','w')
+past_qid = ''
+buffer_sequence = ''
+l1 = []
+for line in f:
+	line = line.strip()
+	if line.startswith('#'):
+		continue
+
+	word = line.strip().split(' ')
+	curr_qid = word[1]
+	
+	if past_qid == '':
+		past_qid = curr_qid
+		l1.append(line.strip())
+		continue
+
+	if curr_qid == past_qid:
+		l1.append(line)
+	else:
+		random.shuffle(l1)
+		for elem in l1:
+			o_f.write(elem)
+		l1 = []
+		past_qid = curr_qid				
+		l1.append(line)
+

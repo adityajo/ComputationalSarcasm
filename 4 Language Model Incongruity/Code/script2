@@ -1,0 +1,2 @@
+python2 sentence_completion.py /data/aa1/PhD_Sem8/TheLastLeg/context2vec-master/MODEL_DIR/MODEL_NAME.params ../../Datasets/Tweets/fold1/train '$$' ../../Datasets/Tweets/fold1/test
+python2 sentence_completion.py /data/aa1/PhD_Sem8/TheLastLeg/context2vec-master/MODEL_DIR/MODEL_NAME.params ../../Datasets/Tweets/fold2/train '$$' ../../Datasets/Tweets/fold2/test

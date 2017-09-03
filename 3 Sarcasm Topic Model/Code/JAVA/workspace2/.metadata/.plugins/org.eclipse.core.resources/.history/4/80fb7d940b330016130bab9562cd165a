@@ -1,0 +1,26 @@
+package hello;
+
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class WriteFile {
+	String file_path ;
+	public WriteFile(String path){
+		file_path = path ;		
+		FileWriter write = new FileWriter(file_path,true); 
+		BufferedWriter bw = new BufferedWriter(write);
+		PrintWriter print = new PrintWriter(bw) ;
+	
+	}
+	public void write(String line) throws IOException{
+		
+		print.println(line) ;
+	}
+	public void close() {
+		print.close() ;
+	}
+		
+	
+}

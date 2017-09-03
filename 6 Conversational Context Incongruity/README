@@ -1,0 +1,3 @@
+1) SVM-HMM and SEARN would have to be downloaded from the appropriate sources
+2) Development code contains three directories: 2 class classification (where we tested on two classes: sarcastic and non-sarcastic), 4 class classification (where we tested on four classes: sarcastic, positive, negative and neither) and past works (for 2 class classification). Each file describes the feature configuration implemented. Also, "svm_" filename indicates the non-sequence labeling variant. In this, the qid parameter is not maintained.
+3) Test code contains 

@@ -1,0 +1,7 @@
+ awk '/t1.fea/ {for(i=1; i<=6; i++) {getline; print}}' searnresults_run2.txt > t1_2
+awk '/t1.fea/ {for(i=1; i<=6; i++) {getline; print}}' searnresults_run3.txt > t1_3
+awk '/t1.fea/ {for(i=1; i<=6; i++) {getline; print}}' searnresults_run4.txt > t1_4
+awk '/t1.fea/ {for(i=1; i<=6; i++) {getline; print}}' searnresults_run5.txt > t1_5
+awk '/t1.fea/ {for(i=1; i<=6; i++) {getline; print}}' searnresults_run1.txt > t1_1
+
+

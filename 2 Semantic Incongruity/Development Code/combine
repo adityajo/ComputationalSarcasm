@@ -1,0 +1,12 @@
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run1/test.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run1/test_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run1/test.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run1/test_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run2/test.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run2/test_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run3/test.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run3/test_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run4/test.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run4/test_liebe.q
+ python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run5/test.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run5/test_liebe.q
+ python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run5/train.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run5/train_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run4/train.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run4/train_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run3/train.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run3/train_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run2/train.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run2/train_liebe.q
+python unigrampluswv.txt /data/aa1/PhD_Sem8/sarcasm_vs_philosophy/run1/train.wv_weighted.glove.int ../Datasets/GoodReads/sarcasm_vs_philosophy//run1/train_liebe.q
+

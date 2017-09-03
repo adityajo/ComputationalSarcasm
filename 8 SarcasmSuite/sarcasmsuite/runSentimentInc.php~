@@ -1,0 +1,17 @@
+<?php
+	$string = $_GET['sentence'];
+	//echo $string;
+	$rmcommand = escapeshellcmd("rm /data/aa1/PhD_Sem8/AAAI17Demo/finalOutput.o");
+	$escaped_command = escapeshellcmd("/usr/bin/python /data/aa1/PhD_Sem8/AAAI17Demo/joshi_testing.py \"$string\" /data/aa1/PhD_Sem8/AAAI17Demo/booksnippets_dataset.vocab");
+	exec("echo \"$string\" >> /data/aa1/PhD_Sem8/AAAI17Demo/SentimentLog");
+	$mys = exec($escaped_command, $result);
+	exec("/data/aa1/PhD_Sem7/EMNLPShort/svm_perf/svm_perf_classify /data/aa1/PhD_Sem8/AAAI17Demo/output.o /data/aa1/PhD_Sem8/AAAI17Demo/svm_model.acl15 /data/aa1/PhD_Sem8/AAAI17Demo/finalOutput.o");
+	exec("awk '{if ($1<=0) print \"-1\"; else print \"+1\";}' /data/aa1/PhD_Sem8/AAAI17Demo/finalOutput.o", $result);
+
+	if ($result[0]=="+1"){
+		echo "1";
+	}
+	else{
+		echo "0";
+	}					
+?>

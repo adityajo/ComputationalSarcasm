@@ -1,0 +1,51 @@
+import sys
+print('yaa')
+trainfile = sys.argv[1]
+testfile = sys.argv[2]
+
+
+f = open (trainfile,'r')
+w1 = open (trainfile+'crf','w')
+old_qid = -1
+for line in f:
+	this_line = ''
+	
+	words = line.split(' ')
+	for word in words:
+		if 'qid:' in word:
+			splits = word.split(':')
+			#print (word)
+			if len(splits)>=2 and splits[1].isdigit():
+				this_qid = int(splits[1])
+				if this_qid > old_qid:
+					#print('this id:'+str(this_qid)+' old id:'+str(old_qid)+' so i ll add a new line')
+					old_qid = this_qid
+					w1.write('Wah re wah\n')
+		elif '#' in word:
+			break
+		else:
+			this_line += word+' '
+	w1.write(this_line.strip())	
+
+f = open (testfile,'r')
+w1 = open (testfile+'crf','w')
+print('yahan')
+old_qid = -1
+for line in f:
+	this_line = ''
+	words = line.split(' ')
+	for word in words:
+		if 'qid:' in word:
+			splits = word.split(':')
+			#print (word)
+			if  len(splits)>=2 and splits[1].isdigit():
+				this_qid = int(splits[1])
+				if this_qid > old_qid:
+					#print('this id:'+str(this_qid)+' old id:'+str(old_qid)+' so i ll add a new line')
+					old_qid = this_qid
+					w1.write('\n')
+		elif '#' in word:
+			break
+		else:
+			this_line += word+' '
+	w1.write(this_line.strip())	

@@ -1,0 +1,6 @@
+This file describes the structure of this directory and sub-directories
+
+data_download: Contains the python scripts for data downloading. 
+java: Contains the java code for the topic model
+
+The detailed explanantion on using the Code is given in the manual.

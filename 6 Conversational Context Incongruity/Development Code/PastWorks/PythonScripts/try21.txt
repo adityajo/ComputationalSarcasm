@@ -1,0 +1,237 @@
+# This is a reimplementation of 'Identifying Sarcsam in Twitter: A closer look. SVM version. NONSEQUENTIAL
+#!/usr/bin/python
+
+import sys
+
+import re
+
+# LIWC features
+
+featuremap_dict = {'16':'LP','12':'LP','19':'LP','141':'LP','142':'LP','143':'LP','146':'LP','22':'PP','125':'PP',
+'126':'PP','127':'PP','128':'PP','129':'PP','130':'PP','131':'PP','132':'PP','133':'PP','134':'PP',
+'135':'PP','136':'PP','137':'PP','138':'PP','139':'PP','140':'PP','366':'PP','121':'PC','122':'PC','123':'PC',
+'124':'PC','148':'PC','149':'PC','150':'PC','354':'PC','356':'PC','357':'PC','358':'PC','359':'PC'}
+
+
+def getLIWCFeatures(input,i_base):
+	input = str(input)
+	input = input.lower()
+	liwc_dict = {'LP':0,'PP':0,'PC':0}
+	words = input.split(' ')
+	for word in words:
+		app_features = ''
+		for key in sentiment_dict.keys():
+			if word.startswith(key):
+				app_features = sentiment_dict[key]
+		
+		if app_features == '':
+			continue
+		
+		for app_feature in app_features.split(' '):
+			if app_feature in featuremap_dict:
+				category = featuremap_dict[app_feature]
+			liwc_dict[category] += 1
+	output = ''
+	output += str(i_base)+':'+str(liwc_dict['LP'])+' '+str(i_base+1)+':'+str(liwc_dict['PP'])+' '+str(i_base+2)+':'+str(liwc_dict['PC'])
+	return output
+			
+
+
+f = open('../LIWC_words','r')
+sentiment_dict = {}
+
+for line in f:
+	words = line.split('\t')
+	temp_string = ''
+	for i in range(1,len(words)):
+		temp_string += words[i]+' '
+	sentiment_dict[words[0].replace('*','')] = temp_string.strip()
+	
+
+f = open('../interj_words','r')
+interj_arr = []
+
+for line in f:
+	words = line.split(' ')
+	
+	if len(words)>0:
+		interj_arr.append(words[0].strip())
+		
+
+def getInterjection(input,i_interj):
+	output = ''
+	count = 0
+	input = input.lower()
+	for i in range(0,len(interj_arr)):
+		count += input.count(interj_arr[i])
+
+	output = str(i_interj)+':'+str(count)
+	return output
+
+
+f = open(sys.argv[1],'r')
+qid = 0
+dict = {}
+word_count = {}
+rev_dict = {}
+index = 1
+
+def getPunctuation(input,i_excl,i_quest,i_dotdot):
+	output = ''
+	output += str(i_excl)+':'+str(input.count('!')) +' '
+	output += str(i_quest)+':'+str(input.count('?'))+' '
+	output += str(i_dotdot)+':'+str(input.count('...'))
+	return output.strip()
+
+def getActions(input):
+	output = ''
+	words = input.split(' ')
+	action = False
+	for word in words:
+		if '(' in word:
+			action = True
+		
+		if action:
+			output += 'k'+word+' '
+		else:
+			output += word+' '
+
+		if ')' in word:
+			action = False
+	return output.strip()
+
+
+for line in f:
+	contents = line.split('\t')
+	if len(contents) ==2 and "Scene" not in line:
+		dialogue = contents[0].lower()
+		dialogue = dialogue + ' '+ getActions(dialogue).lower()
+		if len(dialogue) == 0:
+			continue
+
+		words = re.findall(r"[\w']+|[.:,!?;]",dialogue)
+		first_word = words[0]
+		
+		for word in words:
+			if word not in dict:
+				dict[word] = index
+				rev_dict[index] = word
+				index += 1
+				word_count[word] = 1
+			else:
+				word_count[word] += word_count[word] 
+
+
+i_excl = index+1
+i_quest = index+2
+i_dotdot = index+3
+i_interj = index+4
+i_liwcbase = index+5
+print(str(i_excl)+' '+str(i_quest)+' '+str(i_dotdot)+' '+str(i_interj)+' '+str(i_liwcbase))
+f = open(sys.argv[1],'r')
+f_o1 = open(sys.argv[2],'w')
+f_o1.write('# Vocabulary size:'+str(index)+'\n')
+for line in f:
+	s_line = ''
+	contents = line.split('\t')
+	pos_score = 0
+	neg_score = 0
+	if "Scene" in line:
+		qid +=1
+		
+	
+	if len(contents) >=2 and contents[1] in ('yes\n','no\n'):
+		#print(contents)
+		word_ids = [1]
+		dialogue = contents[0].lower()
+		dialogue = dialogue + ' '+ getActions(dialogue).lower()
+		if len(dialogue) == 0:
+			continue
+		words = re.findall(r"[\w']+|[.,!?;]",dialogue)
+		
+		first_word = words[0]
+		speaker = first_word+':'
+		words.append(speaker)
+		
+		s_punct = getPunctuation(line,i_excl,i_quest,i_dotdot)
+		s_interj = getInterjection(line,i_interj)
+		s_liwc = getLIWCFeatures(input,i_liwcbase)
+		
+		for word in words:
+			if word in dict:
+				
+				index = dict[word]
+				if word_count[word] >= 3:
+					word_ids.append(index)
+		
+		if contents[1].strip() == 'yes':
+			label = '+1'
+		else:
+			label = '-1'
+		
+
+		word_ids = list(set(word_ids))
+		word_ids.sort()
+		s_line = label+' ' 
+		#print(word_ids)
+		for id in word_ids:
+			s_line += str(id)+':1 '
+		
+		s_line += s_punct+' '+s_interj+' '+s_liwc +' '
+		s_line += '# '+line
+		s_line = s_line.strip()
+		f_o1.write(s_line+'\n')
+		
+
+
+f = open(sys.argv[3],'r')
+f_o2 = open(sys.argv[4],'w')
+
+for line in f:
+	s_line = ''
+	contents = line.split('\t')
+	if "Scene" in line:
+		qid +=1
+	pos_score = 0
+	neg_score = 0
+	
+	if len(contents) >=2 and contents[1] in ('yes\n','no\n'):
+		#print(contents)
+		word_ids = [1]
+		dialogue = contents[0].lower()
+		dialogue = dialogue + ' '+ getActions(dialogue).lower()
+		if len(dialogue) == 0:
+			continue
+		words = re.findall(r"[\w']+|[.,!?;]",dialogue)
+		
+		first_word = words[0]
+		speaker = first_word+':'
+		words.append(speaker)
+		
+		s_punct = getPunctuation(line,i_excl,i_quest,i_dotdot)
+		s_interj = getInterjection(line,i_interj)
+		s_liwc = getLIWCFeatures(input,i_liwcbase)
+
+		for word in words:
+			if word in dict:
+				index = dict[word]
+				if word_count[word] >= 3:
+					word_ids.append(index)
+		
+		if contents[1].strip() == 'yes':
+			label = '+1'
+		else:
+			label = '-1'
+		
+
+		word_ids = list(set(word_ids))
+		word_ids.sort()
+		s_line = label+' '
+		#print(word_ids)
+		for id in word_ids:
+			s_line += str(id)+':1 '
+		
+		s_line += s_punct+' '+s_interj+' '+s_liwc +' '
+		s_line += '# '+line
+		s_line = s_line.strip()
+		f_o2.write(s_line+'\n')

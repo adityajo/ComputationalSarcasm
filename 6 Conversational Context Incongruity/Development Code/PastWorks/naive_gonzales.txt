@@ -1,0 +1,35 @@
+./run1/train_t20.q
+             precision    recall  f1-score   support
+
+          1       1.00      0.02      0.03      1619
+          2       0.88      1.00      0.93     11422
+
+avg / total       0.89      0.88      0.82     13041
+./run2/train_t20.q
+             precision    recall  f1-score   support
+
+          1       0.07      0.60      0.12       257
+          2       0.89      0.29      0.44      2924
+
+avg / total       0.82      0.31      0.41      3181
+./run3/train_t20.q
+             precision    recall  f1-score   support
+
+          1       0.10      0.60      0.17       394
+          2       0.84      0.28      0.42      2959
+
+avg / total       0.75      0.32      0.39      3353
+./run4/train_t20.q
+             precision    recall  f1-score   support
+
+          1       0.13      0.58      0.21       527
+          2       0.80      0.30      0.44      2890
+
+avg / total       0.69      0.34      0.40      3417
+./run5/train_t20.q
+             precision    recall  f1-score   support
+
+          1       0.12      0.59      0.20       441
+          2       0.81      0.30      0.44      2649
+
+avg / total       0.71      0.34      0.40      3090

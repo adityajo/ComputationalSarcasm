@@ -1,0 +1,143 @@
+	
+		        LAB 11: PHP, MySQL, Javascript
+
+-------------------------------------------------------------------------------------------
+
+PHP server side scripting
+          &
+Javascript client side scripting
+          &
+MySQL database
+
+-------------------------------------------------------------------------------------------
+
+Copy rollno_lab11 into your public_html directory as lab11 (public_html/lab11/)
+Browse through the existing files using browser to get an idea of the startup code provided
+mysql connectivity example has been provided at /lab11/mysql_demo/
+
+------------------------------------------------------------------------------------------
+
+Submit all your scripts as specified in the rollno_lab11.tar.gz
+Insert the php files in respective folders and also in your url
+Update your url in the file 'myurl.html' of your submissions
+
+<a href="www.cse.iitb.ac.in/~<your_cse_id>/lab11/"> Click to view my lab11 Submission </a>
+
+-------------------------------------------------------------------------------------------
+
+Use may use bootstrap 3.0 to beautify the client side look. Startup code for 
+bootstrap has been given in the submission folder along with the dependencies 
+for bootstrap. Refer w3schools for further help on php, javascript, bootstrap.
+
+Don't get too confused with bootstrap. Treat the startup bootstrap code provided as 
+plain HTML with some predefined css class that do some positioning/beautification.
+You'll get used to it as you go along.
+
+You are always free to switch back to basic html to produce the desired output
+although using the provided code will only ease your design process.
+
+-------------------------------------------------------------------------------------------
+
+Make sure you the .htaccess file provided in submission directory
+copied to public_html/lab11 folder to enable php debugging on mars server
+This is already taken care of when you copy the rollno_lab11 directory to your mars server
+
+HEADS UP: .htaccess is a hidden file
+
+-------------------------------------------------------------------------------------------
+
+1. WORD FREQUENCY COUNTER
+
+	- Take a text file as input using file input in HTML on index.php
+
+	- Validate that the taken input file is with extension .txt using simple javascript. 
+	If not, pop an alert message
+	
+	- In php, check that (file size < 100kB). If not, display error
+	
+	- The text file has to be processed to produce the frequency count of
+	 (number of occurences) of each word sorted in alphabetical order as a HTML table
+
+	- Frequency count must be case-insensitive
+	    (e.g. both 'Hey' and 'hey' would be counted under the same word 'hey')
+
+-------------------------------------------------------------------------------------------
+
+2. PHOTO ALBUM
+
+Create a photo album with following features
+
+	2.1 Login Form: index.php has the form, login.php has authentication
+		Authenticate using standard credentials: 
+			user:eval 
+			pass:eval
+	
+	2.2 album php: Browsing through the album using next, prev, last, first buttons
+
+	2.3 Image upload page that allows you to add an image to the album: new_upload.php is the form 
+	    & upload.php is the processing:
+		
+		- Check for image format as jpg both in javascript and php
+		- Check for image size to be less than 200KB in php
+		- Maximum of 10 images to upload- check in php
+		- Images to be uploaded to images/ directory 
+		- Errors can be displayed on upload.php itself with a back button to 
+			enable navigation to the previous page
+		
+		- Optional (not for credit): deleting images 
+		    Hint: use a csv file to save existing image ids 
+
+	2.4 Optional (not for credit): Use sessions to validate login sessions while 
+	accessing album.php, new_uplod.php & upload.php. Session has to be initialized at login.
+
+-------------------------------------------------------------------------------------------
+
+3. REMINDER SERVICE
+
+Create an Event Reminder service with following features over (LAMP-linux apache mysql php) 
+
+    3.1 User accesses index.php
+        process.php does all the processing in the backend and display result, also provide
+		
+        - Every event consists of the following record (tuple):
+	    - Table structure is given below
+	            
+	            +-------------+--------------+------+-----+---------+----------------+
+                | Field       | Type         | Null | Key | Default | Extra          |
+                +-------------+--------------+------+-----+---------+----------------+
+                | event_id    | int(11)      | NO   | PRI | NULL    | auto_increment |
+                | event_date  | date         | YES  |     | NULL    |                |
+                | start_time  | time         | YES  |     | NULL    |                |
+                | end_time    | time         | YES  |     | NULL    |                |
+                | description | varchar(100) | YES  |     | NULL    |                |
+                +-------------+--------------+------+-----+---------+----------------+
+	    
+	    - Input for date must be in YYYY-MM-DD format
+	    - Time input must be in HH:MM:SS format
+	    - A simple one line description
+	    
+        - Implement the following features through three different forms/buttons in index.php
+			i.  Add a new event
+			ii. Delete an existing event using event id
+			iii Update an event data using event id
+			iv. Display all event on a given day using a table 
+			v.  Display all events using a table
+			
+		- Display the event_id on successful insert/delete/update
+	    - You don't have to provide the event_id for insertion as event_id is auto_incremented			
+
+    MYSQL DB DETAILS
+
+	    host:           1.db.cse.iitb.ac.in
+	    db-name:        cs699db
+	    user-name:      cs699user
+	    password:       cs699user@123
+	    table-name:     event       
+
+
+-------------------------------------------------------------------------------------------
+
+Upload with as many features as you are able to complete by soft deadline
+and then complete it by hard deadline.
+
+-------------------------------------------------------------------------------------------

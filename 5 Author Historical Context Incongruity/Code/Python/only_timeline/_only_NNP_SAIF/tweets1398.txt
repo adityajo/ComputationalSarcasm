@@ -1,0 +1,11 @@
+ADP recommends users "lower security settings allow Java app run w/o prompt". 
+I like finding comments configs/scripts/etc save time/answers question I now. Thanks past me. 
+@BobsInSecurity: Java 7 Update 7 pushed No release notes, metasploit modules don't seem ... 
+I get warm fuzzies 0-days I can't patch apps NEED old versions Java. Thanks Sunguard ADP! #sarcasm 
+@KimZetter: Rapid7 released web tool determine you're using Java version vulnerable zero-day exploit going around - ... 
+@teamcymru: Stuffing Javascript DNS names 
+@jroper: Saying Java awesome awesome IDE support like saying ICU awesome awesome life ... 
+"VRT Rule Release 02/07/2012 -- Thanks Jason Wallace @Wally3514 Nice job! 
+@Snort: Snort 2.9.2.0: Javascript Normalization 
+@OSVDB: Sometimes, like *little* fun entry. Thanks @indi303 vuln! 
+I informed VMware Workstation doesn't hypervisor...who knew! Thanks MS MVP guy! 

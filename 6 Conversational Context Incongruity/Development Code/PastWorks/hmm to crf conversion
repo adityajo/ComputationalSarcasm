@@ -1,0 +1,67 @@
+python hmm_to_crf.py run3/train_t21.q run3/test_t21.q
+python hmm_to_crf.py run4/train_t21.q run4/test_t21.q
+python hmm_to_crf.py run2/train_t21.q run2/test_t21.q
+python hmm_to_crf.py run1/train_t21.q run1/test_t21.q
+python hmm_to_crf.py run5/train_t21.q run5/test_t21.q
+
+python hmm_to_crf.py run3/train_t22.q run3/test_t22.q
+python hmm_to_crf.py run4/train_t22.q run4/test_t22.q
+python hmm_to_crf.py run2/train_t22.q run2/test_t22.q
+python hmm_to_crf.py run1/train_t22.q run1/test_t22.q
+python hmm_to_crf.py run5/train_t22.q run5/test_t22.q
+
+python hmm_to_crf.py run3/train_t20.q run3/test_t20.q
+python hmm_to_crf.py run4/train_t20.q run4/test_t20.q
+python hmm_to_crf.py run2/train_t20.q run2/test_t20.q
+python hmm_to_crf.py run1/train_t20.q run1/test_t20.q
+python hmm_to_crf.py run5/train_t20.q run5/test_t20.q
+
+python hmm_to_crf.py run3/train_t19.q run3/test_t19.q
+python hmm_to_crf.py run4/train_t19.q run4/test_t19.q
+python hmm_to_crf.py run2/train_t19.q run2/test_t19.q
+python hmm_to_crf.py run1/train_t19.q run1/test_t19.q
+python hmm_to_crf.py run5/train_t19.q run5/test_t19.q
+
+python hmm_to_crf.py run3/train_t3.q run3/test_t3.q
+python hmm_to_crf.py run4/train_t3.q run4/test_t3.q
+python hmm_to_crf.py run2/train_t3.q run2/test_t3.q
+python hmm_to_crf.py run1/train_t3.q run1/test_t3.q
+python hmm_to_crf.py run5/train_t3.q run5/test_t3.q
+
+python hmm_to_crf.py run3/train_t4.q run3/test_t4.q
+python hmm_to_crf.py run4/train_t4.q run4/test_t4.q
+python hmm_to_crf.py run2/train_t4.q run2/test_t4.q
+python hmm_to_crf.py run1/train_t4.q run1/test_t4.q
+python hmm_to_crf.py run5/train_t4.q run5/test_t4.q
+
+python hmm_to_crf.py run3/train_t2.q run3/test_t2.q
+python hmm_to_crf.py run4/train_t2.q run4/test_t2.q
+python hmm_to_crf.py run2/train_t2.q run2/test_t2.q
+python hmm_to_crf.py run1/train_t2.q run1/test_t2.q
+python hmm_to_crf.py run5/train_t2.q run5/test_t2.q
+
+python hmm_to_crf.py run3/train_t1.q run3/test_t1.q
+python hmm_to_crf.py run4/train_t1.q run4/test_t1.q
+python hmm_to_crf.py run2/train_t1.q run2/test_t1.q
+python hmm_to_crf.py run1/train_t1.q run1/test_t1.q
+python hmm_to_crf.py run5/train_t1.q run5/test_t1.q
+
+python hmm_to_crf.py run3/train_t10.q run3/test_t10.q
+python hmm_to_crf.py run4/train_t10.q run4/test_t10.q
+python hmm_to_crf.py run2/train_t10.q run2/test_t10.q
+python hmm_to_crf.py run1/train_t10.q run1/test_t10.q
+python hmm_to_crf.py run5/train_t10.q run5/test_t10.q
+
+python hmm_to_crf.py run3/train_t11.q run3/test_t11.q
+python hmm_to_crf.py run4/train_t11.q run4/test_t11.q
+python hmm_to_crf.py run2/train_t11.q run2/test_t11.q
+python hmm_to_crf.py run1/train_t11.q run1/test_t11.q
+python hmm_to_crf.py run5/train_t11.q run5/test_t11.q
+
+
+python hmm_to_crf.py run3/train_t15.q run3/test_t15.q
+python hmm_to_crf.py run4/train_t15.q run4/test_t15.q
+python hmm_to_crf.py run2/train_t15.q run2/test_t15.q
+python hmm_to_crf.py run1/train_t15.q run1/test_t15.q
+python hmm_to_crf.py run5/train_t15.q run5/test_t15.q
+

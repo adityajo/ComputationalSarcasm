@@ -1,0 +1,9 @@
+BELOW IS THE DESCRIPTION FOR  paths to be changed in EACH PROJECT - 
+See the path already put in and change only the location before /CD/…
+
+
+only timeline SentiPredict -  Lines 203 , 211. 
+
+onlyglobalSentiPredict- Lines 200,208
+
+SentiPredict - Lines 199,205,218,222

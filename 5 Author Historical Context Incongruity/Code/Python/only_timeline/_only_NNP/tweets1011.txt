@@ -1,0 +1,3242 @@
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Light Rain 58 F Salt Lake City International, UT 
+BL: Light Rain 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Light Rain 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 51 F Salt Lake City International, UT 
+BL: Fair 50 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 64 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Overcast 73 F Salt Lake City International, UT 
+BL: Overcast 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy Windy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 56 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: A Few Clouds 55 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 55 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: A Few Clouds 48 F Salt Lake City International, UT 
+BL: Partly Cloudy 45 F Salt Lake City International, UT 
+BL: Partly Cloudy 43 F Salt Lake City International, UT 
+BL: A Few Clouds 43 F Salt Lake City International, UT 
+BL: Fair 45 F Salt Lake City International, UT 
+BL: Fair 43 F Salt Lake City International, UT 
+BL: A Few Clouds 44 F Salt Lake City International, UT 
+BL: Partly Cloudy 46 F Salt Lake City International, UT 
+BL: A Few Clouds 46 F Salt Lake City International, UT 
+BL: Partly Cloudy 48 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: Mostly Cloudy 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 48 F Salt Lake City International, UT 
+BL: Mostly Cloudy 43 F Salt Lake City International, UT 
+BL: Rain 45 F Salt Lake City International, UT 
+BL: Mostly Cloudy 45 F Salt Lake City International, UT 
+BL: Partly Cloudy 45 F Salt Lake City International, UT 
+BL: Mostly Cloudy 44 F Salt Lake City International, UT 
+BL: Mostly Cloudy 47 F Salt Lake City International, UT 
+BL: Mostly Cloudy 46 F Salt Lake City International, UT 
+BL: Overcast 47 F Salt Lake City International, UT 
+BL: Mostly Cloudy 48 F Salt Lake City International, UT 
+BL: Overcast 48 F Salt Lake City International, UT 
+BL: Mostly Cloudy 49 F Salt Lake City International, UT 
+BL: Light Rain 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Overcast 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 49 F Salt Lake City International, UT 
+BL: Overcast 50 F Salt Lake City International, UT 
+BL: Overcast 49 F Salt Lake City International, UT 
+BL: Overcast 48 F Salt Lake City International, UT 
+BL: Light Rain 48 F Salt Lake City International, UT 
+BL: Light Rain 51 F Salt Lake City International, UT 
+BL: Overcast 52 F Salt Lake City International, UT 
+BL: Overcast 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Overcast 53 F Salt Lake City International, UT 
+BL: Light Rain 55 F Salt Lake City International, UT 
+BL: Light Rain 56 F Salt Lake City International, UT 
+BL: Light Rain 52 F Salt Lake City International, UT 
+BL: Light Rain Breezy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Partly Cloudy 55 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy Windy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy Windy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: A Few Clouds 55 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Partly Cloudy 55 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy Windy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: A Few Clouds Windy 89 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 89 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 88 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 85 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: Fair 64 F Salt Lake City International, UT 
+BL: Fair 65 F Salt Lake City International, UT 
+BL: Fair 66 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: Fair 82 F Salt Lake City International, UT 
+BL: Fair 79 F Salt Lake City International, UT 
+BL: Fair 78 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: Fair 70 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: Fair 63 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: A Few Clouds 51 F Salt Lake City International, UT 
+BL: Fair 49 F Salt Lake City International, UT 
+BL: Fair 50 F Salt Lake City International, UT 
+BL: Fair 51 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 55 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: Fair 50 F Salt Lake City International, UT 
+BL: Fair 48 F Salt Lake City International, UT 
+BL: Fair 51 F Salt Lake City International, UT 
+BL: Fair 52 F Salt Lake City International, UT 
+BL: Fair 55 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Fair 65 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 87 F Salt Lake City International, UT 
+BL: Special Weather Statement issued September 17 6:02PM MDT NWS 
+BL: Partly Cloudy Windy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy Windy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy Windy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 83 F Salt Lake City International, UT 
+BL: Thunderstorm Vicinity Breezy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Flash Flood Watch issued September 14 3:29PM MDT September 14 9:00PM MDT NWS 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Light Rain 63 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 62 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 67 F Salt Lake City International, UT 
+BL: Flash Flood Watch issued September 14 11:54AM MDT September 14 9:00PM MDT NWS 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Rain 63 F Salt Lake City International, UT 
+BL: Light Rain 65 F Salt Lake City International, UT 
+BL: Thunderstorm 67 F Salt Lake City International, UT 
+BL: Thunderstorm 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Rain 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 67 F Salt Lake City International, UT 
+BL: Light Rain 70 F Salt Lake City International, UT 
+BL: Light Rain 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Flash Flood Watch issued September 12 2:46PM MDT September 13 12:00AM MDT NWS 
+BL: Rain 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy Windy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Flash Flood Watch issued September 12 9:06AM MDT September 13 12:00AM MDT NWS 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Light Rain 70 F Salt Lake City International, UT 
+BL: Light Rain 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Flash Flood Watch issued September 12 4:45AM MDT September 13 12:00AM MDT NWS 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Flash Flood Watch issued September 11 10:26PM MDT September 13 12:00AM MDT NWS 
+BL: Flash Flood Watch issued September 11 3:11PM MDT September 13 12:00AM MDT NWS 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Light Rain 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Thunderstorm 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Flash Flood Watch issued September 11 3:11PM MDT September 13 12:00AM MDT NWS 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Light Rain 65 F Salt Lake City International, UT 
+BL: Light Rain 66 F Salt Lake City International, UT 
+BL: Light Rain 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Light Rain 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Overcast 66 F Salt Lake City International, UT 
+BL: Overcast 65 F Salt Lake City International, UT 
+BL: Overcast 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Light Rain 66 F Salt Lake City International, UT 
+BL: Light Rain 64 F Salt Lake City International, UT 
+BL: Rain 65 F Salt Lake City International, UT 
+BL: Light Rain 65 F Salt Lake City International, UT 
+BL: Rain 66 F Salt Lake City International, UT 
+BL: Overcast 68 F Salt Lake City International, UT 
+BL: Overcast 67 F Salt Lake City International, UT 
+BL: Overcast 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Overcast 68 F Salt Lake City International, UT 
+BL: Thunderstorm Heavy Rain 68 F Salt Lake City International, UT 
+BL: Overcast 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Light Rain 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Overcast 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy Haze 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy Windy 83 F Salt Lake City International, UT 
+BL: Special Weather Statement issued September 06 5:40PM MDT NWS 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: A Few Clouds 78 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: A Few Clouds 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Light Rain 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: A Few Clouds 65 F Salt Lake City International, UT 
+BL: Fair 66 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Special Weather Statement issued September 03 4:43PM MDT NWS 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 80 F Salt Lake City International, UT 
+BL: Special Weather Statement issued September 03 2:48PM MDT NWS 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Overcast 77 F Salt Lake City International, UT 
+BL: Light Rain 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Overcast 83 F Salt Lake City International, UT 
+BL: Overcast 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: A Few Clouds 94 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: Fair 73 F Salt Lake City International, UT 
+BL: Fair 78 F Salt Lake City International, UT 
+BL: Fair 77 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Light Rain 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Light Rain 73 F Salt Lake City International, UT 
+BL: Light Rain 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Overcast 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Overcast 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Overcast 76 F Salt Lake City International, UT 
+BL: Overcast 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Overcast 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Overcast 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Overcast 75 F Salt Lake City International, UT 
+BL: Overcast 74 F Salt Lake City International, UT 
+BL: Special Weather Statement issued August 24 5:12PM MDT NWS 
+BL: Thunderstorm 83 F Salt Lake City International, UT 
+BL: Overcast 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Thunderstorm 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Overcast 74 F Salt Lake City International, UT 
+BL: Overcast 73 F Salt Lake City International, UT 
+BL: Overcast Breezy 74 F Salt Lake City International, UT 
+BL: Overcast 72 F Salt Lake City International, UT 
+BL: Light Rain 71 F Salt Lake City International, UT 
+BL: Overcast Windy 76 F Salt Lake City International, UT 
+BL: Overcast Breezy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Special Weather Statement issued August 23 5:14AM MDT NWS 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Light Rain 76 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 77 F Salt Lake City International, UT 
+BL: Special Weather Statement issued August 22 9:28PM MDT NWS 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Special Weather Statement issued August 22 6:47PM MDT NWS 
+BL: Light Rain 91 F Salt Lake City International, UT 
+BL: Special Weather Statement issued August 22 4:13PM MDT NWS 
+BL: Thunderstorm 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 98 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Fair 70 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 82 F Salt Lake City International, UT 
+BL: A Few Clouds 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Squalls Windy 90 F Salt Lake City International, UT 
+BL: Light Rain 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 73 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Thunderstorm Breezy 81 F Salt Lake City International, UT 
+BL: Thunderstorm 94 F Salt Lake City International, UT 
+BL: Special Weather Statement issued August 08 3:16PM MDT NWS 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Overcast 79 F Salt Lake City International, UT 
+BL: Overcast 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Overcast 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 78 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 78 F Salt Lake City International, UT 
+BL: Fair 79 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: A Few Clouds 78 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 66 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 78 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 99 F Salt Lake City International, UT 
+BL: Mostly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 89 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: A Few Clouds 82 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 84 F Salt Lake City International, UT 
+BL: A Few Clouds 91 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: A Few Clouds 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: A Few Clouds 78 F Salt Lake City International, UT 
+BL: A Few Clouds 84 F Salt Lake City International, UT 
+BL: A Few Clouds 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Light Rain 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Overcast 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Overcast 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Overcast 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 71 F Salt Lake City International, UT 
+BL: Light Rain 74 F Salt Lake City International, UT 
+BL: Thunderstorm 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Overcast 78 F Salt Lake City International, UT 
+BL: Light Rain 79 F Salt Lake City International, UT 
+BL: Overcast 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Light Rain 81 F Salt Lake City International, UT 
+BL: Overcast 80 F Salt Lake City International, UT 
+BL: Overcast 82 F Salt Lake City International, UT 
+BL: Overcast 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 99 F Salt Lake City International, UT 
+BL: Mostly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: A Few Clouds 91 F Salt Lake City International, UT 
+BL: A Few Clouds 87 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 100 F Salt Lake City International, UT 
+BL: Mostly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: A Few Clouds 95 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds 87 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: A Few Clouds 82 F Salt Lake City International, UT 
+BL: A Few Clouds 86 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: A Few Clouds 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 78 F Salt Lake City International, UT 
+BL: Fair 79 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: A Few Clouds 102 F Salt Lake City International, UT 
+BL: A Few Clouds 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Fair 77 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: A Few Clouds 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: A Few Clouds 89 F Salt Lake City International, UT 
+BL: A Few Clouds 95 F Salt Lake City International, UT 
+BL: A Few Clouds 99 F Salt Lake City International, UT 
+BL: A Few Clouds 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: A Few Clouds 91 F Salt Lake City International, UT 
+BL: A Few Clouds 87 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 73 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 79 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Rain 71 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 72 F Salt Lake City International, UT 
+BL: Light Rain 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Overcast 76 F Salt Lake City International, UT 
+BL: Overcast 75 F Salt Lake City International, UT 
+BL: Light Rain 75 F Salt Lake City International, UT 
+BL: Thunderstorm 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain Breezy 77 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 13 5:32PM MDT NWS 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Overcast 76 F Salt Lake City International, UT 
+BL: Overcast 77 F Salt Lake City International, UT 
+BL: Overcast 78 F Salt Lake City International, UT 
+BL: Overcast 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Light Rain 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Overcast 71 F Salt Lake City International, UT 
+BL: Overcast 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Overcast 76 F Salt Lake City International, UT 
+BL: Light Rain 74 F Salt Lake City International, UT 
+BL: Light Rain Breezy 78 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 11 5:17PM MDT NWS 
+BL: Overcast 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 102 F Salt Lake City International, UT 
+BL: Partly Cloudy 103 F Salt Lake City International, UT 
+BL: A Few Clouds 102 F Salt Lake City International, UT 
+BL: A Few Clouds 100 F Salt Lake City International, UT 
+BL: A Few Clouds 98 F Salt Lake City International, UT 
+BL: A Few Clouds 94 F Salt Lake City International, UT 
+BL: Fair 89 F Salt Lake City International, UT 
+BL: Fair 85 F Salt Lake City International, UT 
+BL: Fair 81 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 73 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 77 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: Fair 82 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 94 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: A Few Clouds 99 F Salt Lake City International, UT 
+BL: A Few Clouds 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: A Few Clouds 93 F Salt Lake City International, UT 
+BL: A Few Clouds 91 F Salt Lake City International, UT 
+BL: A Few Clouds 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 07 5:15PM MDT NWS 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Thunderstorm 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Overcast Breezy 75 F Salt Lake City International, UT 
+BL: Overcast 75 F Salt Lake City International, UT 
+BL: Light Rain Breezy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Light Rain 73 F Salt Lake City International, UT 
+BL: Overcast 73 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 06 7:53PM MDT NWS 
+BL: Light Rain 74 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Thunderstorm 79 F Salt Lake City International, UT 
+BL: Overcast 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 05 6:30PM MDT NWS 
+BL: Mostly Cloudy Breezy 81 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 05 5:30PM MDT NWS 
+BL: Overcast 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: A Few Clouds 91 F Salt Lake City International, UT 
+BL: A Few Clouds 88 F Salt Lake City International, UT 
+BL: A Few Clouds 86 F Salt Lake City International, UT 
+BL: A Few Clouds 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Light Rain 69 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain Windy 71 F Salt Lake City International, UT 
+BL: Overcast 80 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 05 12:05AM MDT NWS 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Special Weather Statement issued July 04 10:47PM MDT NWS 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Fair 83 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Light Rain 69 F Salt Lake City International, UT 
+BL: Light Rain 70 F Salt Lake City International, UT 
+BL: Thunderstorm Rain 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 99 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 98 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 102 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 100 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 93 F Salt Lake City International, UT 
+BL: Mostly Cloudy 98 F Salt Lake City International, UT 
+BL: Partly Cloudy 103 F Salt Lake City International, UT 
+BL: Partly Cloudy 102 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 78 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 77 F Salt Lake City International, UT 
+BL: Fair 78 F Salt Lake City International, UT 
+BL: Fair 81 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 85 F Salt Lake City International, UT 
+BL: Fair 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: A Few Clouds 102 F Salt Lake City International, UT 
+BL: A Few Clouds 101 F Salt Lake City International, UT 
+BL: A Few Clouds 99 F Salt Lake City International, UT 
+BL: A Few Clouds 97 F Salt Lake City International, UT 
+BL: A Few Clouds 95 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds 88 F Salt Lake City International, UT 
+BL: A Few Clouds 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 103 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 100 F Salt Lake City International, UT 
+BL: Mostly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 104 F Salt Lake City International, UT 
+BL: Partly Cloudy 103 F Salt Lake City International, UT 
+BL: Partly Cloudy 101 F Salt Lake City International, UT 
+BL: Partly Cloudy 99 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 85 F Salt Lake City International, UT 
+BL: A Few Clouds 87 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds 97 F Salt Lake City International, UT 
+BL: A Few Clouds 100 F Salt Lake City International, UT 
+BL: A Few Clouds 101 F Salt Lake City International, UT 
+BL: A Few Clouds 99 F Salt Lake City International, UT 
+BL: A Few Clouds 98 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: A Few Clouds 94 F Salt Lake City International, UT 
+BL: A Few Clouds 91 F Salt Lake City International, UT 
+BL: Fair 87 F Salt Lake City International, UT 
+BL: Fair 83 F Salt Lake City International, UT 
+BL: Fair 78 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 73 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 79 F Salt Lake City International, UT 
+BL: Fair 81 F Salt Lake City International, UT 
+BL: A Few Clouds 84 F Salt Lake City International, UT 
+BL: A Few Clouds 94 F Salt Lake City International, UT 
+BL: A Few Clouds 93 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Light Rain 74 F Salt Lake City International, UT 
+BL: Overcast 74 F Salt Lake City International, UT 
+BL: Overcast 76 F Salt Lake City International, UT 
+BL: Overcast 79 F Salt Lake City International, UT 
+BL: Overcast Breezy 84 F Salt Lake City International, UT 
+BL: Overcast Breezy 85 F Salt Lake City International, UT 
+BL: Overcast Breezy 89 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: Fair 55 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: A Few Clouds 65 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 73 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 77 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy Haze 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 73 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: A Few Clouds 51 F Salt Lake City International, UT 
+BL: Fair 52 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: A Few Clouds 88 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 97 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: Partly Cloudy 96 F Salt Lake City International, UT 
+BL: A Few Clouds 95 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 91 F Salt Lake City International, UT 
+BL: A Few Clouds 89 F Salt Lake City International, UT 
+BL: A Few Clouds 83 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 93 F Salt Lake City International, UT 
+BL: A Few Clouds 94 F Salt Lake City International, UT 
+BL: A Few Clouds 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 95 F Salt Lake City International, UT 
+BL: Partly Cloudy 94 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: A Few Clouds 90 F Salt Lake City International, UT 
+BL: A Few Clouds 88 F Salt Lake City International, UT 
+BL: A Few Clouds 85 F Salt Lake City International, UT 
+BL: Fair 81 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 65 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: Fair 63 F Salt Lake City International, UT 
+BL: Fair 64 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 70 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 73 F Salt Lake City International, UT 
+BL: Fair 77 F Salt Lake City International, UT 
+BL: Fair 83 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds 93 F Salt Lake City International, UT 
+BL: A Few Clouds 91 F Salt Lake City International, UT 
+BL: Fair 88 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: Fair 63 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 57 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 55 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy Windy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: A Few Clouds 90 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 91 F Salt Lake City International, UT 
+BL: A Few Clouds Windy 90 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Special Weather Statement issued June 12 8:35PM MDT NWS 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy 94 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 92 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Mostly Cloudy 91 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: Fair 77 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 89 F Salt Lake City International, UT 
+BL: Fair 94 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: A Few Clouds 98 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 99 F Salt Lake City International, UT 
+BL: Mostly Cloudy 97 F Salt Lake City International, UT 
+BL: Mostly Cloudy 95 F Salt Lake City International, UT 
+BL: Mostly Cloudy 96 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 97 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 96 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 93 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: A Few Clouds 90 F Salt Lake City International, UT 
+BL: A Few Clouds 96 F Salt Lake City International, UT 
+BL: Fair 96 F Salt Lake City International, UT 
+BL: Fair 94 F Salt Lake City International, UT 
+BL: Fair 93 F Salt Lake City International, UT 
+BL: Fair 90 F Salt Lake City International, UT 
+BL: Fair 88 F Salt Lake City International, UT 
+BL: Fair 84 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 64 F Salt Lake City International, UT 
+BL: Fair 65 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: Fair 66 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 79 F Salt Lake City International, UT 
+BL: Fair 85 F Salt Lake City International, UT 
+BL: Fair 87 F Salt Lake City International, UT 
+BL: Fair 86 F Salt Lake City International, UT 
+BL: Fair 84 F Salt Lake City International, UT 
+BL: Fair 83 F Salt Lake City International, UT 
+BL: Fair 82 F Salt Lake City International, UT 
+BL: Fair 80 F Salt Lake City International, UT 
+BL: Fair 79 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: A Few Clouds 65 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Fair 71 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: A Few Clouds 80 F Salt Lake City International, UT 
+BL: A Few Clouds 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: Fair 63 F Salt Lake City International, UT 
+BL: Fair 64 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 87 F Salt Lake City International, UT 
+BL: Mostly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 64 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: Fair 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Fair 65 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 79 F Salt Lake City International, UT 
+BL: A Few Clouds 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: A Few Clouds 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: Fair 74 F Salt Lake City International, UT 
+BL: Fair 76 F Salt Lake City International, UT 
+BL: Fair 75 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 57 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: A Few Clouds 92 F Salt Lake City International, UT 
+BL: A Few Clouds 87 F Salt Lake City International, UT 
+BL: Fair 84 F Salt Lake City International, UT 
+BL: A Few Clouds 75 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: A Few Clouds 55 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: Fair 65 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 51 F Salt Lake City International, UT 
+BL: Fair 50 F Salt Lake City International, UT 
+BL: Fair 49 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: Fair 65 F Salt Lake City International, UT 
+BL: Fair 67 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: A Few Clouds 51 F Salt Lake City International, UT 
+BL: Fair 53 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy Haze 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: Partly Cloudy 48 F Salt Lake City International, UT 
+BL: Partly Cloudy 49 F Salt Lake City International, UT 
+BL: Partly Cloudy 50 F Salt Lake City International, UT 
+BL: Partly Cloudy 51 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Light Rain 55 F Salt Lake City International, UT 
+BL: Overcast 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Overcast 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 49 F Salt Lake City International, UT 
+BL: Partly Cloudy 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Light Rain 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Light Rain 53 F Salt Lake City International, UT 
+BL: Overcast 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Overcast 54 F Salt Lake City International, UT 
+BL: Rain 54 F Salt Lake City International, UT 
+BL: Light Rain 55 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Light Rain 58 F Salt Lake City International, UT 
+BL: Light Rain 54 F Salt Lake City International, UT 
+BL: Light Rain 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Overcast 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Overcast 62 F Salt Lake City International, UT 
+BL: Overcast 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Overcast 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 85 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: Fair 62 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 75 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 72 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: A Few Clouds 72 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: Fair 48 F Salt Lake City International, UT 
+BL: A Few Clouds 48 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: A Few Clouds 49 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: A Few Clouds 55 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 66 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 43 F Salt Lake City International, UT 
+BL: A Few Clouds 44 F Salt Lake City International, UT 
+BL: A Few Clouds 45 F Salt Lake City International, UT 
+BL: A Few Clouds 46 F Salt Lake City International, UT 
+BL: Partly Cloudy 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 86 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 83 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: A Few Clouds 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: Fair 51 F Salt Lake City International, UT 
+BL: Fair 52 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: A Few Clouds 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Light Rain 53 F Salt Lake City International, UT 
+BL: Light Rain 50 F Salt Lake City International, UT 
+BL: Light Rain 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Light Rain 54 F Salt Lake City International, UT 
+BL: Light Rain 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 49 F Salt Lake City International, UT 
+BL: Light Rain 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Thunderstorm 53 F Salt Lake City International, UT 
+BL: Light Rain 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 51 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Light Rain Fog/Mist 51 F Salt Lake City International, UT 
+BL: Light Rain 51 F Salt Lake City International, UT 
+BL: Overcast 51 F Salt Lake City International, UT 
+BL: Light Rain 53 F Salt Lake City International, UT 
+BL: Light Rain Fog/Mist 53 F Salt Lake City International, UT 
+BL: Overcast 52 F Salt Lake City International, UT 
+BL: Light Rain Fog/Mist 52 F Salt Lake City International, UT 
+BL: Rain Fog/Mist 52 F Salt Lake City International, UT 
+BL: Light Rain 54 F Salt Lake City International, UT 
+BL: Overcast 53 F Salt Lake City International, UT 
+BL: Light Rain 51 F Salt Lake City International, UT 
+BL: Heavy Rain 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Overcast 60 F Salt Lake City International, UT 
+BL: Overcast 63 F Salt Lake City International, UT 
+BL: Overcast 66 F Salt Lake City International, UT 
+BL: Light Rain 63 F Salt Lake City International, UT 
+BL: Overcast 65 F Salt Lake City International, UT 
+BL: Overcast 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Overcast 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Overcast 77 F Salt Lake City International, UT 
+BL: Overcast 76 F Salt Lake City International, UT 
+BL: Overcast 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Overcast 68 F Salt Lake City International, UT 
+BL: Overcast 71 F Salt Lake City International, UT 
+BL: Overcast 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Light Rain Breezy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Light Rain 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: A Few Clouds 65 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 88 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Mostly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 90 F Salt Lake City International, UT 
+BL: Partly Cloudy 92 F Salt Lake City International, UT 
+BL: Partly Cloudy 91 F Salt Lake City International, UT 
+BL: Partly Cloudy 89 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 82 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: A Few Clouds 65 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 85 F Salt Lake City International, UT 
+BL: Partly Cloudy 87 F Salt Lake City International, UT 
+BL: Partly Cloudy 86 F Salt Lake City International, UT 
+BL: Partly Cloudy 84 F Salt Lake City International, UT 
+BL: Partly Cloudy 81 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 63 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 82 F Salt Lake City International, UT 
+BL: Mostly Cloudy 83 F Salt Lake City International, UT 
+BL: Mostly Cloudy 81 F Salt Lake City International, UT 
+BL: Mostly Cloudy 80 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: A Few Clouds 64 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 79 F Salt Lake City International, UT 
+BL: Mostly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy Haze 79 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: Partly Cloudy 78 F Salt Lake City International, UT 
+BL: Partly Cloudy 76 F Salt Lake City International, UT 
+BL: Partly Cloudy 77 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 46 F Salt Lake City International, UT 
+BL: Partly Cloudy 51 F Salt Lake City International, UT 
+BL: A Few Clouds 51 F Salt Lake City International, UT 
+BL: Partly Cloudy 48 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Light Rain 58 F Salt Lake City International, UT 
+BL: Thunderstorm Light Rain 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 47 F Salt Lake City International, UT 
+BL: Partly Cloudy 47 F Salt Lake City International, UT 
+BL: A Few Clouds 49 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: Partly Cloudy 50 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Thunderstorm Rain Breezy 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Partly Cloudy 50 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Light Rain 54 F Salt Lake City International, UT 
+BL: Light Rain 55 F Salt Lake City International, UT 
+BL: Light Rain 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 59 F Salt Lake City International, UT 
+BL: Overcast 60 F Salt Lake City International, UT 
+BL: Overcast 61 F Salt Lake City International, UT 
+BL: Overcast 62 F Salt Lake City International, UT 
+BL: Overcast 63 F Salt Lake City International, UT 
+BL: Overcast Breezy 65 F Salt Lake City International, UT 
+BL: Overcast 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Overcast 60 F Salt Lake City International, UT 
+BL: Overcast 62 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Special Weather Statement issued May 05 2:17PM MDT NWS 
+BL: Overcast 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 76 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 73 F Salt Lake City International, UT 
+BL: Special Weather Statement issued May 05 2:17PM MDT NWS 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: Mostly Cloudy 48 F Salt Lake City International, UT 
+BL: Wind Advisory issued May 05 2:50AM MDT May 05 10:00AM MDT NWS 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 56 F Salt Lake City International, UT 
+BL: Wind Advisory issued May 04 8:30PM MDT May 05 10:00AM MDT NWS 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 66 F Salt Lake City International, UT 
+BL: Overcast 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 70 F Salt Lake City International, UT 
+BL: Partly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 51 F Salt Lake City International, UT 
+BL: Partly Cloudy 45 F Salt Lake City International, UT 
+BL: A Few Clouds 43 F Salt Lake City International, UT 
+BL: A Few Clouds 46 F Salt Lake City International, UT 
+BL: A Few Clouds 47 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: A Few Clouds 51 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 71 F Salt Lake City International, UT 
+BL: Partly Cloudy 69 F Salt Lake City International, UT 
+BL: A Few Clouds 67 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 48 F Salt Lake City International, UT 
+BL: A Few Clouds 41 F Salt Lake City International, UT 
+BL: A Few Clouds 42 F Salt Lake City International, UT 
+BL: Fair 44 F Salt Lake City International, UT 
+BL: A Few Clouds 45 F Salt Lake City International, UT 
+BL: A Few Clouds 47 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: A Few Clouds 49 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: A Few Clouds 62 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: A Few Clouds 48 F Salt Lake City International, UT 
+BL: Fair 36 F Salt Lake City International, UT 
+BL: Fair 38 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued May 02 2:32AM MDT May 02 9:00AM MDT NWS 
+BL: Fair 39 F Salt Lake City International, UT 
+BL: Fair 43 F Salt Lake City International, UT 
+BL: Fair 46 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued May 01 9:46PM MDT May 02 9:00AM MDT NWS 
+BL: A Few Clouds 48 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued May 01 2:42PM MDT May 02 9:00AM MDT NWS 
+BL: Partly Cloudy 50 F Salt Lake City International, UT 
+BL: Partly Cloudy 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 45 F Salt Lake City International, UT 
+BL: Hard Freeze Watch issued May 01 11:14AM MDT May 02 9:00AM MDT NWS 
+BL: Mostly Cloudy 44 F Salt Lake City International, UT 
+BL: Mostly Cloudy 43 F Salt Lake City International, UT 
+BL: Hard Freeze Watch issued May 01 9:45AM MDT May 02 9:00AM MDT NWS 
+BL: Mostly Cloudy 39 F Salt Lake City International, UT 
+BL: Light Snow 40 F Salt Lake City International, UT 
+BL: Mostly Cloudy 41 F Salt Lake City International, UT 
+BL: Partly Cloudy 39 F Salt Lake City International, UT 
+BL: Mostly Cloudy 38 F Salt Lake City International, UT 
+BL: Hard Freeze Watch issued May 01 3:35AM MDT May 02 9:00AM MDT NWS 
+BL: Hard Freeze Warning issued May 01 3:35AM MDT May 02 9:00AM MDT NWS 
+BL: A Few Clouds 38 F Salt Lake City International, UT 
+BL: Fair 41 F Salt Lake City International, UT 
+BL: A Few Clouds 42 F Salt Lake City International, UT 
+BL: A Few Clouds 44 F Salt Lake City International, UT 
+BL: A Few Clouds 46 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 30 10:33PM MDT May 01 9:00AM MDT NWS 
+BL: A Few Clouds 48 F Salt Lake City International, UT 
+BL: Fair 50 F Salt Lake City International, UT 
+BL: A Few Clouds 55 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 30 3:27PM MDT May 01 9:00AM MDT NWS 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Partly Cloudy 57 F Salt Lake City International, UT 
+BL: Hard Freeze Watch issued April 30 10:00AM MDT May 01 9:00AM MDT NWS 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 53 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Hard Freeze Watch issued April 30 3:40AM MDT May 01 9:00AM MDT NWS 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: A Few Clouds 51 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Mostly Cloudy 67 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Mostly Cloudy 72 F Salt Lake City International, UT 
+BL: Mostly Cloudy 71 F Salt Lake City International, UT 
+BL: Mostly Cloudy 70 F Salt Lake City International, UT 
+BL: Mostly Cloudy 68 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Mostly Cloudy 61 F Salt Lake City International, UT 
+BL: Partly Cloudy 48 F Salt Lake City International, UT 
+BL: Partly Cloudy 51 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 55 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 75 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Mostly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 74 F Salt Lake City International, UT 
+BL: Partly Cloudy 72 F Salt Lake City International, UT 
+BL: Partly Cloudy 67 F Salt Lake City International, UT 
+BL: A Few Clouds 63 F Salt Lake City International, UT 
+BL: A Few Clouds 58 F Salt Lake City International, UT 
+BL: A Few Clouds 51 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: A Few Clouds 54 F Salt Lake City International, UT 
+BL: A Few Clouds 55 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Partly Cloudy 57 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 59 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Mostly Cloudy 69 F Salt Lake City International, UT 
+BL: Mostly Cloudy 73 F Salt Lake City International, UT 
+BL: Partly Cloudy 75 F Salt Lake City International, UT 
+BL: A Few Clouds 74 F Salt Lake City International, UT 
+BL: Fair 72 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 68 F Salt Lake City International, UT 
+BL: Fair 63 F Salt Lake City International, UT 
+BL: Fair 57 F Salt Lake City International, UT 
+BL: Fair 47 F Salt Lake City International, UT 
+BL: Fair 45 F Salt Lake City International, UT 
+BL: Fair 46 F Salt Lake City International, UT 
+BL: Fair 48 F Salt Lake City International, UT 
+BL: Fair 50 F Salt Lake City International, UT 
+BL: Fair 51 F Salt Lake City International, UT 
+BL: Fair 52 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 56 F Salt Lake City International, UT 
+BL: Fair 61 F Salt Lake City International, UT 
+BL: Fair 69 F Salt Lake City International, UT 
+BL: Fair 70 F Salt Lake City International, UT 
+BL: A Few Clouds 70 F Salt Lake City International, UT 
+BL: A Few Clouds 69 F Salt Lake City International, UT 
+BL: A Few Clouds 68 F Salt Lake City International, UT 
+BL: Fair 66 F Salt Lake City International, UT 
+BL: Fair 64 F Salt Lake City International, UT 
+BL: Fair 63 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 53 F Salt Lake City International, UT 
+BL: Fair 42 F Salt Lake City International, UT 
+BL: Fair 45 F Salt Lake City International, UT 
+BL: Fair 48 F Salt Lake City International, UT 
+BL: Fair 49 F Salt Lake City International, UT 
+BL: A Few Clouds 52 F Salt Lake City International, UT 
+BL: Partly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: A Few Clouds 61 F Salt Lake City International, UT 
+BL: A Few Clouds 60 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: A Few Clouds 44 F Salt Lake City International, UT 
+BL: A Few Clouds 38 F Salt Lake City International, UT 
+BL: Fair 38 F Salt Lake City International, UT 
+BL: Fair 41 F Salt Lake City International, UT 
+BL: Fair 43 F Salt Lake City International, UT 
+BL: Fair 46 F Salt Lake City International, UT 
+BL: Fair 49 F Salt Lake City International, UT 
+BL: Fair 48 F Salt Lake City International, UT 
+BL: Fair 47 F Salt Lake City International, UT 
+BL: Fair 52 F Salt Lake City International, UT 
+BL: Fair 54 F Salt Lake City International, UT 
+BL: Fair 58 F Salt Lake City International, UT 
+BL: Fair 59 F Salt Lake City International, UT 
+BL: Fair 60 F Salt Lake City International, UT 
+BL: A Few Clouds 59 F Salt Lake City International, UT 
+BL: A Few Clouds 57 F Salt Lake City International, UT 
+BL: A Few Clouds 56 F Salt Lake City International, UT 
+BL: A Few Clouds 55 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: Fair 51 F Salt Lake City International, UT 
+BL: Fair 46 F Salt Lake City International, UT 
+BL: A Few Clouds 42 F Salt Lake City International, UT 
+BL: A Few Clouds 37 F Salt Lake City International, UT 
+BL: Partly Cloudy 39 F Salt Lake City International, UT 
+BL: Mostly Cloudy 43 F Salt Lake City International, UT 
+BL: Mostly Cloudy 45 F Salt Lake City International, UT 
+BL: Mostly Cloudy 44 F Salt Lake City International, UT 
+BL: Overcast 45 F Salt Lake City International, UT 
+BL: Overcast 43 F Salt Lake City International, UT 
+BL: Overcast 46 F Salt Lake City International, UT 
+BL: Mostly Cloudy 47 F Salt Lake City International, UT 
+BL: Mostly Cloudy 48 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: Partly Cloudy 50 F Salt Lake City International, UT 
+BL: Partly Cloudy 51 F Salt Lake City International, UT 
+BL: Partly Cloudy 48 F Salt Lake City International, UT 
+BL: A Few Clouds 46 F Salt Lake City International, UT 
+BL: A Few Clouds 45 F Salt Lake City International, UT 
+BL: A Few Clouds 43 F Salt Lake City International, UT 
+BL: A Few Clouds 41 F Salt Lake City International, UT 
+BL: A Few Clouds 36 F Salt Lake City International, UT 
+BL: A Few Clouds 32 F Salt Lake City International, UT 
+BL: Fair 32 F Salt Lake City International, UT 
+BL: Fair 33 F Salt Lake City International, UT 
+BL: Fair 35 F Salt Lake City International, UT 
+BL: Fair 36 F Salt Lake City International, UT 
+BL: A Few Clouds 38 F Salt Lake City International, UT 
+BL: A Few Clouds 40 F Salt Lake City International, UT 
+BL: A Few Clouds 42 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 22 9:34PM MDT April 23 9:00AM MDT NWS 
+BL: A Few Clouds 45 F Salt Lake City International, UT 
+BL: A Few Clouds 47 F Salt Lake City International, UT 
+BL: A Few Clouds Breezy 51 F Salt Lake City International, UT 
+BL: A Few Clouds 53 F Salt Lake City International, UT 
+BL: Partly Cloudy 54 F Salt Lake City International, UT 
+BL: Partly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 22 2:34PM MDT April 23 9:00AM MDT NWS 
+BL: Mostly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 51 F Salt Lake City International, UT 
+BL: Mostly Cloudy 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: A Few Clouds 49 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Mostly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 62 F Salt Lake City International, UT 
+BL: Partly Cloudy 64 F Salt Lake City International, UT 
+BL: Partly Cloudy 66 F Salt Lake City International, UT 
+BL: Partly Cloudy 65 F Salt Lake City International, UT 
+BL: Mostly Cloudy 64 F Salt Lake City International, UT 
+BL: Mostly Cloudy 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 63 F Salt Lake City International, UT 
+BL: Partly Cloudy 61 F Salt Lake City International, UT 
+BL: Mostly Cloudy 60 F Salt Lake City International, UT 
+BL: Mostly Cloudy 57 F Salt Lake City International, UT 
+BL: Partly Cloudy 53 F Salt Lake City International, UT 
+BL: A Few Clouds 49 F Salt Lake City International, UT 
+BL: Mostly Cloudy 39 F Salt Lake City International, UT 
+BL: A Few Clouds 40 F Salt Lake City International, UT 
+BL: Fair 41 F Salt Lake City International, UT 
+BL: Fair 42 F Salt Lake City International, UT 
+BL: Fair 43 F Salt Lake City International, UT 
+BL: Fair 46 F Salt Lake City International, UT 
+BL: Fair 47 F Salt Lake City International, UT 
+BL: A Few Clouds 46 F Salt Lake City International, UT 
+BL: A Few Clouds 48 F Salt Lake City International, UT 
+BL: Partly Cloudy 52 F Salt Lake City International, UT 
+BL: Partly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 58 F Salt Lake City International, UT 
+BL: Partly Cloudy 56 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Mostly Cloudy 50 F Salt Lake City International, UT 
+BL: Mostly Cloudy 47 F Salt Lake City International, UT 
+BL: Light Rain 47 F Salt Lake City International, UT 
+BL: Mostly Cloudy 48 F Salt Lake City International, UT 
+BL: Light Rain 45 F Salt Lake City International, UT 
+BL: Rain 46 F Salt Lake City International, UT 
+BL: Light Rain 46 F Salt Lake City International, UT 
+BL: Overcast 47 F Salt Lake City International, UT 
+BL: Light Rain 47 F Salt Lake City International, UT 
+BL: Light Rain 50 F Salt Lake City International, UT 
+BL: Overcast 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 55 F Salt Lake City International, UT 
+BL: Mostly Cloudy 54 F Salt Lake City International, UT 
+BL: Overcast 52 F Salt Lake City International, UT 
+BL: Overcast 51 F Salt Lake City International, UT 
+BL: Overcast 49 F Salt Lake City International, UT 
+BL: Overcast 46 F Salt Lake City International, UT 
+BL: Mostly Cloudy 43 F Salt Lake City International, UT 
+BL: Mostly Cloudy 41 F Salt Lake City International, UT 
+BL: Mostly Cloudy 39 F Salt Lake City International, UT 
+BL: Partly Cloudy 38 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 19 5:46AM MDT April 19 9:00AM MDT NWS 
+BL: A Few Clouds 38 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 18 2:33PM MDT April 19 9:00AM MDT NWS 
+BL: A Few Clouds 37 F Salt Lake City International, UT 
+BL: Fair 38 F Salt Lake City International, UT 
+BL: A Few Clouds 39 F Salt Lake City International, UT 
+BL: A Few Clouds 41 F Salt Lake City International, UT 
+BL: Fair 43 F Salt Lake City International, UT 
+BL: Partly Cloudy 46 F Salt Lake City International, UT 
+BL: Mostly Cloudy 48 F Salt Lake City International, UT 
+BL: A Few Clouds 50 F Salt Lake City International, UT 
+BL: A Few Clouds 49 F Salt Lake City International, UT 
+BL: A Few Clouds 48 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 18 2:33PM MDT April 19 9:00AM MDT NWS 
+BL: A Few Clouds 47 F Salt Lake City International, UT 
+BL: A Few Clouds 43 F Salt Lake City International, UT 
+BL: Fair 40 F Salt Lake City International, UT 
+BL: Fair 37 F Salt Lake City International, UT 
+BL: Fair 33 F Salt Lake City International, UT 
+BL: Fair 29 F Salt Lake City International, UT 
+BL: Fair 31 F Salt Lake City International, UT 
+BL: Fair 32 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 18 4:20AM MDT April 18 9:00AM MDT NWS 
+BL: A Few Clouds 34 F Salt Lake City International, UT 
+BL: A Few Clouds 32 F Salt Lake City International, UT 
+BL: A Few Clouds 33 F Salt Lake City International, UT 
+BL: Partly Cloudy 33 F Salt Lake City International, UT 
+BL: Partly Cloudy 36 F Salt Lake City International, UT 
+BL: Partly Cloudy 38 F Salt Lake City International, UT 
+BL: Partly Cloudy 41 F Salt Lake City International, UT 
+BL: Hard Freeze Warning issued April 17 9:25PM MDT April 18 9:00AM MDT NWS 
+BL: Mostly Cloudy 42 F Salt Lake City International, UT 
+BL: Mostly Cloudy 43 F Salt Lake City International, UT 
+BL: Mostly Cloudy 45 F Salt Lake City International, UT 
+BL: Mostly Cloudy 44 F Salt Lake City International, UT 
+BL: Mostly Cloudy Breezy 46 F Salt Lake City International, UT 
+BL: Partly Cloudy Breezy 47 F Salt Lake City International, UT 

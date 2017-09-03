@@ -1,0 +1,45 @@
+import random
+import sys
+# This is the code for the scrambling experiment. It retains the scene structure - however scrambles the order of utterances in a scene
+f = open(sys.argv[1],'r')
+f_o1 = open(sys.argv[1]+'.scram','w')
+dictionary = {}
+random.seed()
+scene_num = -1
+lk = []
+len1 = 0
+for line in f:
+	words = line.split(' ')
+	qid = words[1][4:]
+   	if line.startswith('#'):
+		continue
+	if qid.isdigit() == False:
+		continue
+
+	if scene_num != -1 and scene_num != qid and qid.isdigit():
+		l1 = [None]*len(lk)
+		for i in range(len(lk)):
+			l1[i] = len(lk)-i-1
+
+
+		for i in range(len(l1)):
+			f_o1.write(lk[l1[i]]+'\n')
+		len1 = 0
+		lk = []
+		scene_num = qid
+
+	if scene_num == -1 and qid.isdigit():
+		scene_num = qid   
+
+	lk.append(line.strip())
+	len1 += 1
+
+l1 = [None]*len(lk)  
+for i in range(len(lk)):
+	l1[i] = len(lk)-i-1
+l1 = random.sample(l1,len(lk))
+for i in range(len(l1)):
+	f_o1.write(lk[l1[i]]+'\n')
+
+print(str(len(lk)))
+print(random.sample([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], 10))

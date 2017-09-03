@@ -1,0 +1,5 @@
+Detection percent = 1.0
+Pos Precision = 0.217647058824
+Neg Precision = 0.777514231499
+Pos Recall = 0.0731225296443
+Neg Recall = 0.924943566591

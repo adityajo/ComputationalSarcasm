@@ -1,0 +1,35 @@
+../../12Jan2015/svm_light/svm_learn -t1 -d2 run1/train_t22.oversampled
+../../12Jan2015/svm_light/svm_classify  run1/test_t22.oversampled svm_model run1/test_svmt22.q 
+awk '{print $1}' run1/test_svmt22.q > actuallabels
+ awk '{if ($1<=0) print "-1"; else print "+1";}' run1/test_t22.oversampled > predictedlabels
+paste actuallabels predictedlabels > run1/test_t22.oversampledp
+python ../../12Jan2015/ClassificationReport.py run1/test_t22.oversampledp > run1/test_svmt22.osampled.res
+
+../../12Jan2015/svm_light/svm_learn -t1 -d2 run2/train_t22.oversampled
+../../12Jan2015/svm_light/svm_classify run2/test_svmt22.q svm_model run2/test_t22.oversampled
+awk '{print $1}' run2/test_svmt22.q > actuallabels
+ awk '{if ($1<=0) print "-1"; else print "+1";}' run2/test_t22.oversampled > predictedlabels
+paste actuallabels predictedlabels > run2/test_t22.oversampledp
+python ../../12Jan2015/ClassificationReport.py run2/test_t22.oversampledp > run2/test_svmt22.osampled.res
+
+../../12Jan2015/svm_light/svm_learn -t1 -d2 run3/train_t22.oversampled
+../../12Jan2015/svm_light/svm_classify run3/test_svmt22.q svm_model run3/test_t22.oversampled
+awk '{print $1}' run3/test_svmt22.q > actuallabels
+ awk '{if ($1<=0) print "-1"; else print "+1";}' run3/test_t22.oversampled > predictedlabels
+paste actuallabels predictedlabels > run3/test_t22.oversampledp
+python ../../12Jan2015/ClassificationReport.py run3/test_t22.oversampledp > run3/test_svmt22.osampled.res
+
+../../12Jan2015/svm_light/svm_learn -t1 -d2 run4/train_t22.oversampled
+../../12Jan2015/svm_light/svm_classify run4/test_svmt22.q svm_model run4/test_t22.oversampled
+awk '{print $1}' run4/test_svmt22.q > actuallabels
+ awk '{if ($1<=0) print "-1"; else print "+1";}' run4/test_t22.oversampled > predictedlabels
+paste actuallabels predictedlabels > run4/test_t22.oversampledp
+python ../../12Jan2015/ClassificationReport.py run4/test_t22.oversampledp > run4/test_svmt22.osampled.res
+
+../../12Jan2015/svm_light/svm_learn -t1 -d2 run5/train_t22.oversampled
+../../12Jan2015/svm_light/svm_classify run5/test_svmt22.q svm_model run5/test_t22.oversampled
+awk '{print $1}' run5/test_svmt22.q > actuallabels
+ awk '{if ($1<=0) print "-1"; else print "+1";}' run5/test_t22.oversampled > predictedlabels
+paste actuallabels predictedlabels > run5/test_t22.oversampledp
+python ../../12Jan2015/ClassificationReport.py run5/test_t22.oversampledp > run5/test_svmt22.osampled.res
+

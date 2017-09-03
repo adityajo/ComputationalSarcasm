@@ -1,0 +1,29 @@
+import random
+import sys
+
+f = open(sys.argv[1],'r')
+o_f = open(sys.argv[1]+'.broken','w')
+qid = 0
+buffer_sequence = ''
+l1 = []
+for line in f:
+	line = line.strip()
+	if line.startswith('#'):
+		continue
+	newline = ''
+	words = line.strip().split(' ')
+	
+	for word in words:
+		if 'qid' in word:
+			newline+='qid:'+qid+' '
+			qid += 1
+
+		newline += word+' '
+
+	newline = newline.strip()
+	o_f.write(newline+'\n')
+
+
+
+	
+

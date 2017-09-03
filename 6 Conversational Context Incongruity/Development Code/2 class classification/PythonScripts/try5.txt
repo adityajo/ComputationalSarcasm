@@ -1,0 +1,78 @@
+#For SVM, not HMM. unigrams + speaker
+
+import re
+#!/usr/bin/python
+
+import sys
+
+import re
+f = open(sys.argv[1],'r')
+qid = 0
+dict = {}
+word_count = {}
+rev_dict = {}
+index = 1
+for line in f:
+	contents = line.split('\t')
+	if len(contents) ==2 and "Scene" not in line:
+		dialogue = contents[0].lower()
+		words = re.findall(r"[\w']+|[.:,!?;]",dialogue)
+		
+		if len(dialogue) == 0:
+			continue		
+
+		first_word = words[0]
+		speaker = first_word+':'
+		
+		words.append(speaker)
+		for word in words:
+			if word not in dict:
+				dict[word] = index
+				rev_dict[index] = word
+				index += 1
+				word_count[word] = 1
+			else:
+				word_count[word] += word_count[word] 
+
+f = open(sys.argv[1],'r')
+
+for line in f:
+	s_line = ''
+	contents = line.split('\t')
+	if "Scene" in line:
+		qid +=1
+	
+	if len(contents) >=2 and contents[1] in ('yes\n','no\n'):
+		#print(contents)
+		word_ids = [1]
+		dialogue = contents[0].lower()
+		words = re.findall(r"[\w']+|[.,!?;]",dialogue)
+		if len(dialogue) == 0:
+			continue
+		first_word = words[0]
+		speaker = first_word+':'
+		words.append(speaker)
+		
+		for word in words:
+			if word in dict:
+				index = dict[word]
+				if word_count[word] >= 3:
+					word_ids.append(index)
+		
+		if contents[1].strip() == 'yes':
+			label = '+1'
+		else:
+			label = '-1'
+		
+
+		word_ids = list(set(word_ids))
+		word_ids.sort()
+		s_line = label+' '
+		#print(word_ids)
+		for id in word_ids:
+			s_line += str(id)+':1 '
+
+		s_line += '# '+line
+		s_line = s_line.strip()
+		print(s_line)
+		

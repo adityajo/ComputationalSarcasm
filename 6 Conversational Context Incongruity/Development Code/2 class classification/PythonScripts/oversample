@@ -1,0 +1,47 @@
+#!/usr/bin/python
+
+import sys
+
+import re
+f = open(sys.argv[1],'r')
+sarcastic_dialogues = ''
+yes_count = 0
+no_count = 0
+for line in f:
+	fields = line.split('\t')
+	if len(fields)==2:
+		o = fields[1]
+	if o.strip('\n') == 'yes':
+		yes_count += 1
+		sarcastic_dialogues += line
+	else:
+		no_count += 1
+
+print ('Prior counts:'+str(yes_count)+' i.e. '+str(len(sarcastic_dialogues.split('\n')))+' '+str(no_count))
+
+f2 = open (sys.argv[2],'w')
+f = open (sys.argv[1],'r')
+
+for line in f:
+	f2.write(line)
+
+difference = no_count - yes_count
+repeat_times = difference / yes_count
+
+for i in range(0,repeat_times):
+	f2.write(sarcastic_dialogues)
+
+f = open(sys.argv[2],'r')
+
+yes_count = 0
+no_count = 0
+for line in f:
+	fields = line.split('\t')
+	if len(fields)==2:
+		o = fields[1]
+	if o.strip('\n') == 'yes':
+		yes_count += 1
+	else:
+		no_count += 1
+print ('Fixed counts:'+str(yes_count)+' '+str(no_count))
+

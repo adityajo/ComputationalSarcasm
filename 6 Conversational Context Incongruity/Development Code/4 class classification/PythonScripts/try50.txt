@@ -1,0 +1,224 @@
+#unigrams+whosaidtowhom+actions+speaker+sentiment + PREV SENTIMENT : 4 class 9March 2016
+#!/usr/bin/python
+
+import sys
+
+import re
+
+
+f = open('sentiwordlist','r')
+sentiment_dict = {}
+
+for line in f:
+	words = line.split(' ')
+	sentiment_dict[words[0]] = words[1]
+
+
+
+
+f = open(sys.argv[1],'r')
+qid = 0
+dict = {}
+word_count = {}
+rev_dict = {}
+index = 1
+
+def getActions(input):
+	output = ''
+	words = input.split(' ')
+	action = False
+	for word in words:
+		if '(' in word:
+			action = True
+		
+		if action:
+			output += 'k'+word+' '
+		else:
+			output += word+' '
+
+		if ')' in word:
+			action = False
+	return output.strip()
+
+prev_speaker = '$'
+for line in f:
+	contents = line.split('\t')
+	if len(contents) ==2 and "Scene" not in line:
+		dialogue = contents[0].lower()
+		dialogue = dialogue + ' '+ getActions(dialogue).lower()
+		if len(dialogue) == 0:
+			continue
+
+		words = re.findall(r"[\w']+|[.:,!?;]",dialogue)
+		first_word = words[0]
+		speaker = first_word+':'
+		
+		words.append(speaker)
+
+		whosaidtowhom = prev_speaker+first_word+':'
+		words.append(whosaidtowhom)
+
+		prev_speaker = first_word
+		for word in words:
+			if word not in dict:
+				dict[word] = index
+				rev_dict[index] = word
+				index += 1
+				word_count[word] = 1
+			else:
+				word_count[word] += word_count[word] 
+pos_index = index
+neg_index = index+1
+prev_pos_index = index+2
+prev_neg_index = index+3
+
+prev_speaker = '$'
+prev_pos_score = 0
+prev_neg_score = 0
+
+f = open(sys.argv[1],'r')
+f_o1 = open(sys.argv[2],'w')
+f_o1.write('# Vocabulary size:'+str(index)+'\n')
+for line in f:
+	s_line = ''
+	contents = line.split('\t')
+	pos_score = 0
+	neg_score = 0
+	if "Scene" in line:
+		qid +=1
+		prev_pos_score = 0
+		prev_neg_score = 0
+	
+	if len(contents) >=2  and contents[1] in ('yes\n','happy\n','sad\n','neither\n'):
+		#print(contents)
+		word_ids = [1]
+		dialogue = contents[0].lower()
+		dialogue = dialogue + ' '+ getActions(dialogue).lower()
+		if len(dialogue) == 0:
+			continue
+		words = re.findall(r"[\w']+|[.,!?;]",dialogue)
+		
+		first_word = words[0]
+		speaker = first_word+':'
+		words.append(speaker)
+		
+		whosaidtowhom = prev_speaker+first_word+':'
+		words.append(whosaidtowhom)
+
+		prev_speaker = first_word
+		for word in words:
+			if word in dict:
+				if word.lower() in sentiment_dict:
+					sentiment = sentiment_dict[word.lower()]
+					
+					if int(sentiment) == 1:
+						#print(word+' found as positive')
+						pos_score += 1
+					else:
+						#print(word+' found as negative')
+						neg_score += 1
+				index = dict[word]
+				if word_count[word] >= 3:
+					word_ids.append(index)
+		
+		if contents[1].strip() == 'yes':
+			label = '1'
+		elif contents[1].strip() == 'happy':
+			label = '2'
+		elif contents[1].strip() == 'sad':
+			label = '3'
+		elif contents[1].strip() == 'neither':
+			label = '4'
+		else:
+			continue
+		
+
+		word_ids = list(set(word_ids))
+		word_ids.sort()
+		s_line = label+' ' + 'qid:'+str(qid)+' '
+		#print(word_ids)
+		for id in word_ids:
+			s_line += str(id)+':1 '
+		s_line += str(pos_index)+':'+str(pos_score)+' '+str(neg_index)+':'+str(neg_score)+' '
+		s_line += str(prev_pos_index)+':'+str(prev_pos_score)+' '+str(prev_neg_index)+':'+str(prev_neg_score)+' '
+		s_line += '# '+line
+		s_line = s_line.strip()
+		f_o1.write(s_line+'\n')
+	prev_pos_score = pos_score
+	prev_neg_score = neg_score
+		
+
+prev_speaker = '$'
+f = open(sys.argv[3],'r')
+f_o2 = open(sys.argv[4],'w')
+
+prev_pos_score = 0
+prev_neg_score = 0
+for line in f:
+	s_line = ''
+	contents = line.split('\t')
+	if "Scene" in line:
+		qid +=1
+		prev_pos_score = 0
+		prev_neg_score = 0
+	pos_score = 0
+	neg_score = 0
+	
+	if len(contents) >=2 and contents[1] in ('yes\n','happy\n','sad\n','neither\n'):
+		#print(contents)
+		word_ids = [1]
+		dialogue = contents[0].lower()
+		dialogue = dialogue + ' '+ getActions(dialogue).lower()
+		if len(dialogue) == 0:
+			continue
+		words = re.findall(r"[\w']+|[.,!?;]",dialogue)
+		
+		first_word = words[0]
+		speaker = first_word+':'
+		words.append(speaker)
+		
+		whosaidtowhom = prev_speaker+first_word+':'
+		words.append(whosaidtowhom)
+
+		prev_speaker = first_word
+
+		for word in words:
+			if word in dict:
+				if word.lower() in sentiment_dict:
+					sentiment = sentiment_dict[word.lower()]
+					
+					if int(sentiment) == 1:
+						#print(word+' found as positive')
+						pos_score += 1
+					else:
+						#print(word+' found as negative')
+						neg_score += 1
+				index = dict[word]
+				if word_count[word] >= 3:
+					word_ids.append(index)
+		
+		if contents[1].strip() == 'yes':
+			label = '1'
+		elif contents[1].strip() == 'happy':
+			label = '2'
+		elif contents[1].strip() == 'sad':
+			label = '3'
+		elif contents[1].strip() == 'neither':
+			label = '4'
+		else:
+			continue
+		
+
+		word_ids = list(set(word_ids))
+		word_ids.sort()
+		s_line = label+' ' + 'qid:'+str(qid)+' '
+		#print(word_ids)
+		for id in word_ids:
+			s_line += str(id)+':1 '
+		s_line += str(pos_index)+':'+str(pos_score)+' '+str(neg_index)+':'+str(neg_score)+' '
+		s_line += str(prev_pos_index)+':'+str(prev_pos_score)+' '+str(prev_neg_index)+':'+str(prev_neg_score)+' '
+		s_line += '# '+line
+		s_line = s_line.strip()
+		f_o2.write(s_line+'\n')
+	prev_pos_score = pos_score
+	prev_neg_score = neg_score

@@ -1,0 +1,152 @@
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run5/train_t24.q.scram
+../../12Jan2015/svm_hmm_classify run5/test_t24.q.scram svm_struct_model run5/predicted_tags_t24.o.scram
+awk '{print $1}' run5/test_t24.q.scram > run5/actual_tags_t24.o.scram
+paste run5/actual_tags_t24.o.scram run5/predicted_tags_t24.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run5/results_t24.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run1/train_t24.q.scram
+../../12Jan2015/svm_hmm_classify run1/test_t24.q.scram svm_struct_model run1/predicted_tags_t24.o.scram
+awk '{print $1}' run1/test_t24.q.scram > run1/actual_tags_t24.o.scram
+paste run1/actual_tags_t24.o.scram run1/predicted_tags_t24.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run1/results_t24.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run2/train_t24.q.scram
+../../12Jan2015/svm_hmm_classify run2/test_t24.q.scram svm_struct_model run2/predicted_tags_t24.o.scram
+awk '{print $1}' run2/test_t24.q.scram > run2/actual_tags_t24.o.scram
+paste run2/actual_tags_t24.o.scram run2/predicted_tags_t24.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run2/results_t24.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run3/train_t24.q.scram
+../../12Jan2015/svm_hmm_classify run3/test_t24.q.scram svm_struct_model run3/predicted_tags_t24.o.scram
+awk '{print $1}' run3/test_t24.q.scram > run3/actual_tags_t24.o.scram
+paste run3/actual_tags_t24.o.scram run3/predicted_tags_t24.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run3/results_t24.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run4/train_t24.q.scram
+../../12Jan2015/svm_hmm_classify run4/test_t24.q.scram svm_struct_model run4/predicted_tags_t24.o.scram
+awk '{print $1}' run4/test_t24.q.scram > run4/actual_tags_t24.o.scram
+paste run4/actual_tags_t24.o.scram run4/predicted_tags_t24.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run4/results_t24.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run5/train_t21.q.scram
+../../12Jan2015/svm_hmm_classify run5/test_t21.q.scram svm_struct_model run5/predicted_tags_t21.o.scram
+awk '{print $1}' run5/test_t21.q.scram > run5/actual_tags_t21.o.scram
+paste run5/actual_tags_t21.o.scram run5/predicted_tags_t21.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run5/results_t21.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run1/train_t21.q.scram
+../../12Jan2015/svm_hmm_classify run1/test_t21.q.scram svm_struct_model run1/predicted_tags_t21.o.scram
+awk '{print $1}' run1/test_t21.q.scram > run1/actual_tags_t21.o.scram
+paste run1/actual_tags_t21.o.scram run1/predicted_tags_t21.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run1/results_t21.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run2/train_t21.q.scram
+../../12Jan2015/svm_hmm_classify run2/test_t21.q.scram svm_struct_model run2/predicted_tags_t21.o.scram
+awk '{print $1}' run2/test_t21.q.scram > run2/actual_tags_t21.o.scram
+paste run2/actual_tags_t21.o.scram run2/predicted_tags_t21.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run2/results_t21.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run3/train_t21.q.scram
+../../12Jan2015/svm_hmm_classify run3/test_t21.q.scram svm_struct_model run3/predicted_tags_t21.o.scram
+awk '{print $1}' run3/test_t21.q.scram > run3/actual_tags_t21.o.scram
+paste run3/actual_tags_t21.o.scram run3/predicted_tags_t21.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run3/results_t21.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run4/train_t21.q.scram
+../../12Jan2015/svm_hmm_classify run4/test_t21.q.scram svm_struct_model run4/predicted_tags_t21.o.scram
+awk '{print $1}' run4/test_t21.q.scram > run4/actual_tags_t21.o.scram
+paste run4/actual_tags_t21.o.scram run4/predicted_tags_t21.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run4/results_t21.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run5/train_t22.q.scram
+../../12Jan2015/svm_hmm_classify run5/test_t22.q.scram svm_struct_model run5/predicted_tags_t22.o.scram
+awk '{print $1}' run5/test_t22.q.scram > run5/actual_tags_t22.o.scram
+paste run5/actual_tags_t22.o.scram run5/predicted_tags_t22.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run5/results_t22.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run1/train_t22.q.scram
+../../12Jan2015/svm_hmm_classify run1/test_t22.q.scram svm_struct_model run1/predicted_tags_t22.o.scram
+awk '{print $1}' run1/test_t22.q.scram > run1/actual_tags_t22.o.scram
+paste run1/actual_tags_t22.o.scram run1/predicted_tags_t22.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run1/results_t22.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run2/train_t22.q.scram
+../../12Jan2015/svm_hmm_classify run2/test_t22.q.scram svm_struct_model run2/predicted_tags_t22.o.scram
+awk '{print $1}' run2/test_t22.q.scram > run2/actual_tags_t22.o.scram
+paste run2/actual_tags_t22.o.scram run2/predicted_tags_t22.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run2/results_t22.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run3/train_t22.q.scram
+../../12Jan2015/svm_hmm_classify run3/test_t22.q.scram svm_struct_model run3/predicted_tags_t22.o.scram
+awk '{print $1}' run3/test_t22.q.scram > run3/actual_tags_t22.o.scram
+paste run3/actual_tags_t22.o.scram run3/predicted_tags_t22.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run3/results_t22.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run4/train_t22.q.scram
+../../12Jan2015/svm_hmm_classify run4/test_t22.q.scram svm_struct_model run4/predicted_tags_t22.o.scram
+awk '{print $1}' run4/test_t22.q.scram > run4/actual_tags_t22.o.scram
+paste run4/actual_tags_t22.o.scram run4/predicted_tags_t22.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run4/results_t22.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run5/train_t19.q.scram
+../../12Jan2015/svm_hmm_classify run5/test_t19.q.scram svm_struct_model run5/predicted_tags_t19.o.scram
+awk '{print $1}' run5/test_t19.q.scram > run5/actual_tags_t19.o.scram
+paste run5/actual_tags_t19.o.scram run5/predicted_tags_t19.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run5/results_t19.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run1/train_t19.q.scram
+../../12Jan2015/svm_hmm_classify run1/test_t19.q.scram svm_struct_model run1/predicted_tags_t19.o.scram
+awk '{print $1}' run1/test_t19.q.scram > run1/actual_tags_t19.o.scram
+paste run1/actual_tags_t19.o.scram run1/predicted_tags_t19.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run1/results_t19.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run2/train_t19.q.scram
+../../12Jan2015/svm_hmm_classify run2/test_t19.q.scram svm_struct_model run2/predicted_tags_t19.o.scram
+awk '{print $1}' run2/test_t19.q.scram > run2/actual_tags_t19.o.scram
+paste run2/actual_tags_t19.o.scram run2/predicted_tags_t19.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run2/results_t19.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run3/train_t19.q.scram
+../../12Jan2015/svm_hmm_classify run3/test_t19.q.scram svm_struct_model run3/predicted_tags_t19.o.scram
+awk '{print $1}' run3/test_t19.q.scram > run3/actual_tags_t19.o.scram
+paste run3/actual_tags_t19.o.scram run3/predicted_tags_t19.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run3/results_t19.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run4/train_t19.q.scram
+../../12Jan2015/svm_hmm_classify run4/test_t19.q.scram svm_struct_model run4/predicted_tags_t19.o.scram
+awk '{print $1}' run4/test_t19.q.scram > run4/actual_tags_t19.o.scram
+paste run4/actual_tags_t19.o.scram run4/predicted_tags_t19.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run4/results_t19.o.scram
+
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run5/train_t12.q.scram
+../../12Jan2015/svm_hmm_classify run5/test_t12.q.scram svm_struct_model run5/predicted_tags_t12.o.scram
+awk '{print $1}' run5/test_t12.q.scram > run5/actual_tags_t12.o.scram
+paste run5/actual_tags_t12.o.scram run5/predicted_tags_t12.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run5/results_t12.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run1/train_t12.q.scram
+../../12Jan2015/svm_hmm_classify run1/test_t12.q.scram svm_struct_model run1/predicted_tags_t12.o.scram
+awk '{print $1}' run1/test_t12.q.scram > run1/actual_tags_t12.o.scram
+paste run1/actual_tags_t12.o.scram run1/predicted_tags_t12.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run1/results_t12.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run2/train_t12.q.scram
+../../12Jan2015/svm_hmm_classify run2/test_t12.q.scram svm_struct_model run2/predicted_tags_t12.o.scram
+awk '{print $1}' run2/test_t12.q.scram > run2/actual_tags_t12.o.scram
+paste run2/actual_tags_t12.o.scram run2/predicted_tags_t12.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run2/results_t12.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run3/train_t12.q.scram
+../../12Jan2015/svm_hmm_classify run3/test_t12.q.scram svm_struct_model run3/predicted_tags_t12.o.scram
+awk '{print $1}' run3/test_t12.q.scram > run3/actual_tags_t12.o.scram
+paste run3/actual_tags_t12.o.scram run3/predicted_tags_t12.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run3/results_t12.o.scram
+
+../../12Jan2015/svm_hmm_learn -c 100 -e 0.5 run4/train_t12.q.scram
+../../12Jan2015/svm_hmm_classify run4/test_t12.q.scram svm_struct_model run4/predicted_tags_t12.o.scram
+awk '{print $1}' run4/test_t12.q.scram > run4/actual_tags_t12.o.scram
+paste run4/actual_tags_t12.o.scram run4/predicted_tags_t12.o.scram > tagfile
+python ../../24Feb2016/ClassificationReport.py tagfile > run4/results_t12.o.scram
+
+

@@ -1,0 +1,71 @@
+# SVM: Only Word Vectors
+#!/usr/bin/python
+
+import sys
+
+import re
+import collections
+
+
+f_wv = open(sys.argv[1],'r')
+f_unig = open(sys.argv[2],'r')
+f_o1 = open(sys.argv[1]+'.wvq','w')
+
+
+for line_wv in f_wv:
+	line_unig = f_unig.readline()	
+
+	while "Vocabulary" in line_unig:
+		line_unig = f_unig.readline()
+	
+		
+	line_wvstripped = line_wv.split('#')[0]
+	line_unigstripped = line_unig.split('#')[0]
+	line_text = line_unig.split('#')[1]
+	
+	words = line_unigstripped.strip().split(' ')
+	n_line_unig = ''
+
+	for word in words:
+		if '13250' not in word and '13251' not in word and '13252' not in word and '13253' not in word and '13254' not in word and '13255' not in word and '13256' not in word:
+			n_line_unig += word+' '
+
+	n_line_unig = n_line_unig.strip()
+	line_unigstripped = n_line_unig
+	d = dict()
+	sentence = ''
+	
+	
+	words = line_unigstripped.strip().split(' ')
+	what = False
+	for word in words:
+		if ':' not in word:
+			sentence += word+' '
+			
+			what = True
+			continue
+		f1 = int(word.split(':')[0])
+		f2 = word.split(':')[1].strip()
+		#d[f1] = f2
+	
+	
+	words = line_wvstripped.strip().split(' ')
+	for word in words:
+		if ':' not in word:
+			continue
+		f1 = int(word.split(':')[0])
+		f2 = word.split(':')[1].strip()
+		d[f1] = f2	
+	
+	
+	od = collections.OrderedDict(sorted(d.items()))
+	for i in od:
+    		sentence += str(i)+':'+d[i]+' '
+	f_o1.write(sentence+' # '+line_text+'\n')
+
+	if what == False:
+		print("Is mein nahi hai "+sentence+" #" +line_text)
+
+f_o1.close()
+f_unig.close()
+f_wv.close()
